@@ -1,0 +1,58 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vMM
+!s110 1721179270
+!i10b 1
+!s100 ^KF8@TezT]15L55KmJlc:1
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I2@cGleK>AYJX1c^2_g8C]2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/MS22YCChen/Downloads/2024_final_3/Q2
+w1721179263
+8C:/Users/MS22YCChen/Downloads/2024_final_3/Q2/MM.v
+FC:/Users/MS22YCChen/Downloads/2024_final_3/Q2/MM.v
+!i122 11
+L0 2 259
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1721179270.000000
+!s107 C:/Users/MS22YCChen/Downloads/2024_final_3/Q2/MM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/MS22YCChen/Downloads/2024_final_3/Q2/MM.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@m@m
+vtestfixture1
+!s110 1721079851
+!i10b 1
+!s100 PEUeU>ZL18lHFF`f?Am1B0
+R0
+IKGHjDgo7EVPZzSO0gBo7R2
+R1
+R2
+w1717163058
+8C:/Users/MS22YCChen/Downloads/2024_final_3/Q2/testfixture.v
+FC:/Users/MS22YCChen/Downloads/2024_final_3/Q2/testfixture.v
+!i122 5
+L0 7 305
+R3
+r1
+!s85 0
+31
+!s108 1721079851.000000
+!s107 C:/Users/MS22YCChen/Downloads/2024_final_3/Q2/testfixture.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/MS22YCChen/Downloads/2024_final_3/Q2/testfixture.v|
+!i113 1
+R4
+R5

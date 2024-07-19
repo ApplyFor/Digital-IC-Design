@@ -1,0 +1,8 @@
+C:/Users/MS22YCChen/Downloads/2024_final_3/Q2/testfixture.v {1 {vlog -work work -stats=none C:/Users/MS22YCChen/Downloads/2024_final_3/Q2/testfixture.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module testfixture1
+
+Top level modules:
+	testfixture1
+
+} {} {}}

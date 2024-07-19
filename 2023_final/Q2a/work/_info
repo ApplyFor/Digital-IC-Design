@@ -1,0 +1,58 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/CYC/Downloads/Meeting Room 3/Q2a
+vCONV3x3
+!s110 1685418791
+!i10b 1
+!s100 9XSdPfM5TfdDb1X3=g[PU1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IlHSzC@5=Rb_zz2BgkmNTS3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1685418030
+8C:/Users/CYC/Downloads/Meeting Room 3/Q2a/CONV3x3.v
+FC:/Users/CYC/Downloads/Meeting Room 3/Q2a/CONV3x3.v
+!i122 2
+L0 2 180
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1685418790.000000
+!s107 C:/Users/CYC/Downloads/Meeting Room 3/Q2a/CONV3x3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/CYC/Downloads/Meeting Room 3/Q2a/CONV3x3.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@c@o@n@v3x3
+vtestfixture
+!s110 1685418793
+!i10b 1
+!s100 PIdcYDziGDKQ9UBdY8XN:3
+R1
+Ij>kQm];3`zaY^Lf=ETNOE0
+R2
+R0
+w1684879010
+8C:/Users/CYC/Downloads/Meeting Room 3/Q2a/testfixture.v
+FC:/Users/CYC/Downloads/Meeting Room 3/Q2a/testfixture.v
+!i122 3
+L0 9 173
+R3
+r1
+!s85 0
+31
+!s108 1685418792.000000
+!s107 C:/Users/CYC/Downloads/Meeting Room 3/Q2a/testfixture.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/CYC/Downloads/Meeting Room 3/Q2a/testfixture.v|
+!i113 1
+R4
+R5

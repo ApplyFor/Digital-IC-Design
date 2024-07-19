@@ -1,0 +1,1448 @@
+vsim -gui work.testfixture1
+# vsim -gui work.testfixture1 
+# Start time: 08:52:29 on Jul 17,2024
+# Loading work.testfixture1
+# Loading work.MM
+vsim -gui work.testfixture1
+# End time: 08:52:48 on Jul 17,2024, Elapsed time: 0:00:19
+# Errors: 0, Warnings: 1
+# vsim -gui work.testfixture1 
+# Start time: 08:52:48 on Jul 17,2024
+# Loading work.testfixture1
+# Loading work.MM
+add wave -position insertpoint sim:/testfixture1/*
+add wave -position insertpoint sim:/testfixture1/u_set/*
+run -all
+# --------------------------- [ Simulation START !! ] ---------------------------
+#  9:Pattern           0 is PASS !
+#  3:Pattern           1 is PASS !
+#  3:Pattern           2 is PASS !
+#  1:Pattern           3 is PASS !
+#  3:Pattern           4 is PASS !
+#  3:Pattern           5 is PASS !
+#  1:Pattern           6 is PASS !
+#  3:Pattern           7 is PASS !
+#  3:Pattern           8 is PASS !
+#  1:Pattern           9 is PASS !
+#  9:Pattern          10 is PASS !
+#  3:Pattern          11 is PASS !
+#  3:Pattern          12 is PASS !
+#  1:Pattern          13 is PASS !
+#  9:Pattern          14 is PASS !
+#  3:Pattern          15 is PASS !
+#  1:Pattern          16 is PASS !
+#  3:Pattern          17 is PASS !
+#  1:Pattern          18 is PASS !
+#  9:Pattern          19 is PASS !
+#  3:Pattern          20 is PASS !
+#  3:Pattern          21 is PASS !
+#  1:Pattern          22 is PASS !
+#  5:Pattern          23 is FAIL !. Expected value/is_legal =    3915776/1,but the Response value/is_legal = 4290691072/1 !! 
+#  5:Pattern          24 is FAIL !. Expected value/is_legal = 4294267824/1,but the Response value/is_legal =    1332144/1 !! 
+#  5:Pattern          25 is FAIL !. Expected value/is_legal =     711320/1,but the Response value/is_legal = 4292598424/1 !! 
+#  9:Pattern          26 is PASS !
+#  3:Pattern          27 is PASS !
+#  3:Pattern          28 is PASS !
+#  1:Pattern          29 is PASS !
+#  9:Pattern          30 is PASS !
+#  3:Pattern          31 is PASS !
+#  3:Pattern          32 is PASS !
+#  1:Pattern          33 is PASS !
+#  9:Pattern          34 is PASS !
+#  1:Pattern          35 is PASS !
+#  9:Pattern          36 is PASS !
+#  3:Pattern          37 is PASS !
+#  3:Pattern          38 is PASS !
+#  1:Pattern          39 is PASS !
+#  9:Pattern          40 is PASS !
+#  3:Pattern          41 is PASS !
+#  1:Pattern          42 is PASS !
+#  3:Pattern          43 is PASS !
+#  1:Pattern          44 is PASS !
+#  9:Pattern          45 is PASS !
+#  3:Pattern          46 is PASS !
+#  3:Pattern          47 is PASS !
+#  1:Pattern          48 is PASS !
+#  3:Pattern          49 is PASS !
+#  3:Pattern          50 is PASS !
+#  1:Pattern          51 is PASS !
+#  9:Pattern          52 is PASS !
+#  3:Pattern          53 is PASS !
+#  3:Pattern          54 is PASS !
+#  1:Pattern          55 is PASS !
+#  3:Pattern          56 is PASS !
+#  3:Pattern          57 is PASS !
+#  1:Pattern          58 is PASS !
+#  3:Pattern          59 is PASS !
+#  3:Pattern          60 is PASS !
+#  1:Pattern          61 is PASS !
+#  9:Pattern          62 is PASS !
+#  3:Pattern          63 is PASS !
+#  3:Pattern          64 is PASS !
+#  1:Pattern          65 is PASS !
+#  9:Pattern          66 is PASS !
+#  1:Pattern          67 is PASS !
+#  1:Pattern          68 is PASS !
+#  9:Pattern          69 is PASS !
+#  3:Pattern          70 is PASS !
+#  1:Pattern          71 is PASS !
+#  3:Pattern          72 is PASS !
+#  1:Pattern          73 is PASS !
+#  3:Pattern          74 is PASS !
+#  1:Pattern          75 is PASS !
+#  9:Pattern          76 is PASS !
+#  3:Pattern          77 is PASS !
+#  1:Pattern          78 is PASS !
+#  3:Pattern          79 is PASS !
+#  1:Pattern          80 is PASS !
+#  3:Pattern          81 is PASS !
+#  1:Pattern          82 is PASS !
+#  9:Pattern          83 is PASS !
+#  1:Pattern          84 is PASS !
+#  1:Pattern          85 is PASS !
+#  1:Pattern          86 is PASS !
+#  9:Pattern          87 is PASS !
+#  3:Pattern          88 is PASS !
+#  1:Pattern          89 is PASS !
+#  3:Pattern          90 is PASS !
+#  1:Pattern          91 is PASS !
+#  3:Pattern          92 is PASS !
+#  1:Pattern          93 is PASS !
+#  9:Pattern          94 is PASS !
+#  3:Pattern          95 is PASS !
+#  3:Pattern          96 is PASS !
+#  1:Pattern          97 is PASS !
+#  3:Pattern          98 is PASS !
+#  3:Pattern          99 is PASS !
+#  1:Pattern         100 is PASS !
+#  3:Pattern         101 is PASS !
+#  3:Pattern         102 is PASS !
+#  1:Pattern         103 is PASS !
+#  9:Pattern         104 is PASS !
+#  3:Pattern         105 is PASS !
+#  3:Pattern         106 is PASS !
+#  1:Pattern         107 is PASS !
+#  3:Pattern         108 is PASS !
+#  3:Pattern         109 is PASS !
+#  1:Pattern         110 is PASS !
+#  9:Pattern         111 is PASS !
+#  1:Pattern         112 is PASS !
+#  1:Pattern         113 is PASS !
+#  9:Pattern         114 is PASS !
+#  3:Pattern         115 is PASS !
+#  3:Pattern         116 is PASS !
+#  1:Pattern         117 is PASS !
+#  3:Pattern         118 is PASS !
+#  3:Pattern         119 is PASS !
+#  1:Pattern         120 is PASS !
+#  3:Pattern         121 is PASS !
+#  3:Pattern         122 is PASS !
+#  1:Pattern         123 is PASS !
+#  9:Pattern         124 is PASS !
+#  3:Pattern         125 is PASS !
+#  3:Pattern         126 is PASS !
+#  1:Pattern         127 is PASS !
+#  9:Pattern         128 is PASS !
+#  3:Pattern         129 is PASS !
+#  3:Pattern         130 is PASS !
+#  1:Pattern         131 is PASS !
+#  6:Pattern         132 is PASS !
+#  3:Pattern         133 is PASS !
+#  1:Pattern         134 is PASS !
+#  3:Pattern         135 is PASS !
+#  1:Pattern         136 is PASS !
+#  9:Pattern         137 is PASS !
+#  3:Pattern         138 is PASS !
+#  3:Pattern         139 is PASS !
+#  1:Pattern         140 is PASS !
+#  3:Pattern         141 is PASS !
+#  3:Pattern         142 is PASS !
+#  1:Pattern         143 is PASS !
+#  9:Pattern         144 is PASS !
+#  1:Pattern         145 is PASS !
+#  9:Pattern         146 is PASS !
+#  3:Pattern         147 is PASS !
+#  3:Pattern         148 is PASS !
+#  1:Pattern         149 is PASS !
+#  3:Pattern         150 is PASS !
+#  3:Pattern         151 is PASS !
+#  1:Pattern         152 is PASS !
+#  3:Pattern         153 is PASS !
+#  3:Pattern         154 is PASS !
+#  1:Pattern         155 is PASS !
+#  9:Pattern         156 is PASS !
+#  1:Pattern         157 is PASS !
+#  1:Pattern         158 is PASS !
+#  9:Pattern         159 is PASS !
+#  3:Pattern         160 is PASS !
+#  3:Pattern         161 is PASS !
+#  1:Pattern         162 is PASS !
+#  3:Pattern         163 is PASS !
+#  3:Pattern         164 is PASS !
+#  1:Pattern         165 is PASS !
+#  9:Pattern         166 is PASS !
+#  1:Pattern         167 is PASS !
+#  6:Pattern         168 is PASS !
+#  1:Pattern         169 is PASS !
+#  9:Pattern         170 is PASS !
+#  3:Pattern         171 is PASS !
+#  3:Pattern         172 is PASS !
+#  1:Pattern         173 is PASS !
+#  3:Pattern         174 is PASS !
+#  3:Pattern         175 is PASS !
+#  1:Pattern         176 is PASS !
+#  3:Pattern         177 is PASS !
+#  3:Pattern         178 is PASS !
+#  1:Pattern         179 is PASS !
+#  9:Pattern         180 is PASS !
+#  3:Pattern         181 is PASS !
+#  1:Pattern         182 is PASS !
+#  9:Pattern         183 is PASS !
+#  3:Pattern         184 is PASS !
+#  3:Pattern         185 is PASS !
+#  1:Pattern         186 is PASS !
+#  3:Pattern         187 is PASS !
+#  3:Pattern         188 is PASS !
+#  1:Pattern         189 is PASS !
+#  9:Pattern         190 is PASS !
+#  1:Pattern         191 is PASS !
+#  1:Pattern         192 is PASS !
+#  1:Pattern         193 is PASS !
+#  9:Pattern         194 is PASS !
+#  1:Pattern         195 is PASS !
+#  1:Pattern         196 is PASS !
+#  9:Pattern         197 is PASS !
+#  3:Pattern         198 is PASS !
+#  3:Pattern         199 is PASS !
+#  1:Pattern         200 is PASS !
+#  9:Pattern         201 is PASS !
+#  3:Pattern         202 is PASS !
+#  3:Pattern         203 is PASS !
+#  1:Pattern         204 is PASS !
+#  9:Pattern         205 is PASS !
+#  3:Pattern         206 is PASS !
+#  3:Pattern         207 is PASS !
+#  1:Pattern         208 is PASS !
+#  3:Pattern         209 is PASS !
+#  3:Pattern         210 is PASS !
+#  1:Pattern         211 is PASS !
+#  3:Pattern         212 is PASS !
+#  3:Pattern         213 is PASS !
+#  1:Pattern         214 is PASS !
+#  6:Pattern         215 is PASS !
+#  3:Pattern         216 is PASS !
+#  1:Pattern         217 is PASS !
+#  9:Pattern         218 is PASS !
+#  3:Pattern         219 is PASS !
+#  1:Pattern         220 is PASS !
+#  3:Pattern         221 is PASS !
+#  1:Pattern         222 is PASS !
+#  5:Pattern         223 is FAIL !. Expected value/is_legal = 4293276468/1,but the Response value/is_legal =     406324/1 !! 
+#  5:Pattern         224 is FAIL !. Expected value/is_legal = 4291865922/1,but the Response value/is_legal =    2534722/1 !! 
+#  9:Pattern         225 is PASS !
+#  1:Pattern         226 is PASS !
+#  1:Pattern         227 is PASS !
+#  9:Pattern         228 is PASS !
+#  1:Pattern         229 is PASS !
+#  1:Pattern         230 is PASS !
+#  9:Pattern         231 is PASS !
+#  3:Pattern         232 is PASS !
+#  3:Pattern         233 is PASS !
+#  1:Pattern         234 is PASS !
+#  3:Pattern         235 is PASS !
+#  3:Pattern         236 is PASS !
+#  1:Pattern         237 is PASS !
+#  3:Pattern         238 is PASS !
+#  3:Pattern         239 is PASS !
+#  1:Pattern         240 is PASS !
+#  9:Pattern         241 is PASS !
+#  3:Pattern         242 is PASS !
+#  1:Pattern         243 is PASS !
+#  3:Pattern         244 is PASS !
+#  1:Pattern         245 is PASS !
+#  3:Pattern         246 is PASS !
+#  1:Pattern         247 is PASS !
+#  9:Pattern         248 is PASS !
+#  1:Pattern         249 is PASS !
+#  1:Pattern         250 is PASS !
+#  9:Pattern         251 is PASS !
+#  3:Pattern         252 is PASS !
+#  1:Pattern         253 is PASS !
+#  9:Pattern         254 is PASS !
+#  3:Pattern         255 is PASS !
+#  3:Pattern         256 is PASS !
+#  1:Pattern         257 is PASS !
+#  9:Pattern         258 is PASS !
+#  3:Pattern         259 is PASS !
+#  1:Pattern         260 is PASS !
+#  3:Pattern         261 is PASS !
+#  1:Pattern         262 is PASS !
+#  9:Pattern         263 is PASS !
+#  3:Pattern         264 is PASS !
+#  3:Pattern         265 is PASS !
+#  1:Pattern         266 is PASS !
+#  3:Pattern         267 is PASS !
+#  3:Pattern         268 is PASS !
+#  1:Pattern         269 is PASS !
+#  3:Pattern         270 is PASS !
+#  3:Pattern         271 is PASS !
+#  1:Pattern         272 is PASS !
+# --------------------------- Simulation FINISH !!---------------------------
+# ============================================================================
+# 
+#  (T_T) FAIL!! The simulation result is FAIL!!! there were           5 errors at all.
+# 
+# ============================================================================
+# ** Note: $stop    : C:/Users/MS22YCChen/Downloads/2024_final_3/Q2/testfixture.v(286)
+#    Time: 75012500 ps  Iteration: 0  Instance: /testfixture1
+# Break in Module testfixture1 at C:/Users/MS22YCChen/Downloads/2024_final_3/Q2/testfixture.v line 286
+# WARNING: No extended dataflow license exists
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Compile of MM.v was successful.
+vsim -gui work.testfixture1
+# End time: 09:16:40 on Jul 17,2024, Elapsed time: 0:23:52
+# Errors: 0, Warnings: 2
+# vsim -gui work.testfixture1 
+# Start time: 09:16:40 on Jul 17,2024
+# Loading work.testfixture1
+# Loading work.MM
+run -all
+# --------------------------- [ Simulation START !! ] ---------------------------
+#  9:Pattern           0 is PASS !
+# temp:
+#  -8591   2343   8804      0      0      0      0      0      0      0      0      0      0      0      0      0  3:Pattern           1 is PASS !
+#  3:Pattern           2 is PASS !
+#  1:Pattern           3 is PASS !
+#  3:Pattern           4 is PASS !
+#  3:Pattern           5 is PASS !
+#  1:Pattern           6 is PASS !
+#  3:Pattern           7 is PASS !
+#  3:Pattern           8 is PASS !
+#  1:Pattern           9 is PASS !
+#  9:Pattern          10 is PASS !
+# temp:
+#  -9312  -2532      0      0      0      0      0      0      0      0      0      0      0      0      0      0  3:Pattern          11 is PASS !
+#  3:Pattern          12 is PASS !
+#  1:Pattern          13 is PASS !
+#  9:Pattern          14 is PASS !
+# temp:
+#  -6454   6978  -9050  21614   1833  12438      0      0      0      0      0      0      0      0      0      0  3:Pattern          15 is PASS !
+#  1:Pattern          16 is PASS !
+#  3:Pattern          17 is PASS !
+#  1:Pattern          18 is PASS !
+#  9:Pattern          19 is PASS !
+# temp:
+#  28132   4078 -31320  12456      0      0      0      0      0      0      0      0      0      0      0      0  3:Pattern          20 is PASS !
+#  3:Pattern          21 is PASS !
+#  1:Pattern          22 is PASS !
+#  5:Pattern          23 is FAIL !. Expected value/is_legal =    3915776/1,but the Response value/is_legal = 4290691072/1 !! 
+#  5:Pattern          24 is FAIL !. Expected value/is_legal = 4294267824/1,but the Response value/is_legal =    1332144/1 !! 
+#  5:Pattern          25 is FAIL !. Expected value/is_legal =     711320/1,but the Response value/is_legal = 4292598424/1 !! 
+#  9:Pattern          26 is PASS !
+# temp:
+#   1350   2310  -5090      0      0      0      0      0      0      0      0      0      0      0      0      0  3:Pattern          27 is PASS !
+#  3:Pattern          28 is PASS !
+#  1:Pattern          29 is PASS !
+#  9:Pattern          30 is PASS !
+#  3:Pattern          31 is PASS !
+#  3:Pattern          32 is PASS !
+#  1:Pattern          33 is PASS !
+#  9:Pattern          34 is PASS !
+# temp:
+#   3000  -2200   -450      0      0      0      0      0      0      0      0      0      0      0      0      0  1:Pattern          35 is PASS !
+#  9:Pattern          36 is PASS !
+#  3:Pattern          37 is PASS !
+#  3:Pattern          38 is PASS !
+#  1:Pattern          39 is PASS !
+#  9:Pattern          40 is PASS !
+# temp:
+# -15488   2299      0      0      0      0      0      0      0      0      0      0      0      0      0      0  3:Pattern          41 is PASS !
+#  1:Pattern          42 is PASS !
+#  3:Pattern          43 is PASS !
+#  1:Pattern          44 is PASS !
+#  9:Pattern          45 is PASS !
+# temp:
+#    392   1036   -840  -2220      0      0      0      0      0      0      0      0      0      0      0      0  3:Pattern          46 is PASS !
+#  3:Pattern          47 is PASS !
+#  1:Pattern          48 is PASS !
+#  3:Pattern          49 is PASS !
+#  3:Pattern          50 is PASS !
+#  1:Pattern          51 is PASS !
+#  9:Pattern          52 is PASS !
+# temp:
+#   -377  -2659   3520   2116   2233    -78      0      0      0      0      0      0      0      0      0      0  3:Pattern          53 is PASS !
+#  3:Pattern          54 is PASS !
+#  1:Pattern          55 is PASS !
+#  3:Pattern          56 is PASS !
+#  3:Pattern          57 is PASS !
+#  1:Pattern          58 is PASS !
+#  3:Pattern          59 is PASS !
+#  3:Pattern          60 is PASS !
+#  1:Pattern          61 is PASS !
+#  9:Pattern          62 is PASS !
+# temp:
+#   2420  -2068      0      0      0      0      0      0      0      0      0      0      0      0      0      0  3:Pattern          63 is PASS !
+#  3:Pattern          64 is PASS !
+#  1:Pattern          65 is PASS !
+#  9:Pattern          66 is PASS !
+# temp:
+#   6253  -5416  14726  -8425      0      0      0      0      0      0      0      0      0      0      0      0  1:Pattern          67 is PASS !
+#  1:Pattern          68 is PASS !
+#  9:Pattern          69 is PASS !
+# temp:
+#  -4809  -1201   5010  -2613    637   1518  -2100   -771   2418      0      0      0      0      0      0      0  3:Pattern          70 is PASS !
+#  1:Pattern          71 is PASS !
+#  3:Pattern          72 is PASS !
+#  1:Pattern          73 is PASS !
+#  3:Pattern          74 is PASS !
+#  1:Pattern          75 is PASS !
+#  9:Pattern          76 is PASS !
+# temp:
+#  -4476  -1236  -1346      0      0      0      0      0      0      0      0      0      0      0      0      0  3:Pattern          77 is PASS !
+#  1:Pattern          78 is PASS !
+#  3:Pattern          79 is PASS !
+#  1:Pattern          80 is PASS !
+#  3:Pattern          81 is PASS !
+#  1:Pattern          82 is PASS !
+#  9:Pattern          83 is PASS !
+# temp:
+#   -538 -16878 -13874   7089   3248  14970      0      0      0      0      0      0      0      0      0      0  1:Pattern          84 is PASS !
+#  1:Pattern          85 is PASS !
+#  1:Pattern          86 is PASS !
+#  9:Pattern          87 is PASS !
+# temp:
+#   -144  -2352   1392   -690 -11270   6670   -372  -6076   3596      0      0      0      0      0      0      0  3:Pattern          88 is PASS !
+#  1:Pattern          89 is PASS !
+#  3:Pattern          90 is PASS !
+#  1:Pattern          91 is PASS !
+#  3:Pattern          92 is PASS !
+#  1:Pattern          93 is PASS !
+#  9:Pattern          94 is PASS !
+# temp:
+#  -7580  14816   9552  -2393    689  -9795   6717  -5751  10950      0      0      0      0      0      0      0  3:Pattern          95 is PASS !
+#  3:Pattern          96 is PASS !
+#  1:Pattern          97 is PASS !
+#  3:Pattern          98 is PASS !
+#  3:Pattern          99 is PASS !
+#  1:Pattern         100 is PASS !
+#  3:Pattern         101 is PASS !
+#  3:Pattern         102 is PASS !
+#  1:Pattern         103 is PASS !
+#  9:Pattern         104 is PASS !
+# temp:
+#   9795   6245      0      0      0      0      0      0      0      0      0      0      0      0      0      0  3:Pattern         105 is PASS !
+#  3:Pattern         106 is PASS !
+#  1:Pattern         107 is PASS !
+#  3:Pattern         108 is PASS !
+#  3:Pattern         109 is PASS !
+#  1:Pattern         110 is PASS !
+#  9:Pattern         111 is PASS !
+# temp:
+#  -7924  21085 -18782  -7601      0      0      0      0      0      0      0      0      0      0      0      0  1:Pattern         112 is PASS !
+#  1:Pattern         113 is PASS !
+#  9:Pattern         114 is PASS !
+# temp:
+#  10134   6410  -2301   1122     67   -750   4794   3713   -564      0      0      0      0      0      0      0  3:Pattern         115 is PASS !
+#  3:Pattern         116 is PASS !
+#  1:Pattern         117 is PASS !
+#  3:Pattern         118 is PASS !
+#  3:Pattern         119 is PASS !
+#  1:Pattern         120 is PASS !
+#  3:Pattern         121 is PASS !
+#  3:Pattern         122 is PASS !
+#  1:Pattern         123 is PASS !
+#  9:Pattern         124 is PASS !
+#  3:Pattern         125 is PASS !
+#  3:Pattern         126 is PASS !
+#  1:Pattern         127 is PASS !
+#  9:Pattern         128 is PASS !
+#  3:Pattern         129 is PASS !
+#  3:Pattern         130 is PASS !
+#  1:Pattern         131 is PASS !
+#  6:Pattern         132 is PASS !
+# temp:
+#      0   1071      0      0      0      0      0      0      0      0      0      0      0      0      0      0  3:Pattern         133 is PASS !
+#  1:Pattern         134 is PASS !
+#  3:Pattern         135 is PASS !
+#  1:Pattern         136 is PASS !
+#  9:Pattern         137 is PASS !
+# temp:
+# -10769   2904   3560   -960      0      0      0      0      0      0      0      0      0      0      0      0  3:Pattern         138 is PASS !
+#  3:Pattern         139 is PASS !
+#  1:Pattern         140 is PASS !
+#  3:Pattern         141 is PASS !
+#  3:Pattern         142 is PASS !
+#  1:Pattern         143 is PASS !
+#  9:Pattern         144 is PASS !
+# temp:
+#   4096  -4672      0      0      0      0      0      0      0      0      0      0      0      0      0      0  1:Pattern         145 is PASS !
+#  9:Pattern         146 is PASS !
+# temp:
+#   2724  10593   5261  -3365  -4693  -2372   2170   6287   3133      0      0      0      0      0      0      0  3:Pattern         147 is PASS !
+#  3:Pattern         148 is PASS !
+#  1:Pattern         149 is PASS !
+#  3:Pattern         150 is PASS !
+#  3:Pattern         151 is PASS !
+#  1:Pattern         152 is PASS !
+#  3:Pattern         153 is PASS !
+#  3:Pattern         154 is PASS !
+#  1:Pattern         155 is PASS !
+#  9:Pattern         156 is PASS !
+# temp:
+#  -1134  -1260      0      0      0      0      0      0      0      0      0      0      0      0      0      0  1:Pattern         157 is PASS !
+#  1:Pattern         158 is PASS !
+#  9:Pattern         159 is PASS !
+# temp:
+#   2540   2540     40 -16002 -16002   -252      0      0      0      0      0      0      0      0      0      0  3:Pattern         160 is PASS !
+#  3:Pattern         161 is PASS !
+#  1:Pattern         162 is PASS !
+#  3:Pattern         163 is PASS !
+#  3:Pattern         164 is PASS !
+#  1:Pattern         165 is PASS !
+#  9:Pattern         166 is PASS !
+#  1:Pattern         167 is PASS !
+#  6:Pattern         168 is PASS !
+# temp:
+#  -9950   1295   9905      0      0      0      0      0      0      0      0      0      0      0      0      0  1:Pattern         169 is PASS !
+#  9:Pattern         170 is PASS !
+# temp:
+#  -3168   3648    -36      0      0      0      0      0      0      0      0      0      0      0      0      0  3:Pattern         171 is PASS !
+#  3:Pattern         172 is PASS !
+#  1:Pattern         173 is PASS !
+#  3:Pattern         174 is PASS !
+#  3:Pattern         175 is PASS !
+#  1:Pattern         176 is PASS !
+#  3:Pattern         177 is PASS !
+#  3:Pattern         178 is PASS !
+#  1:Pattern         179 is PASS !
+#  9:Pattern         180 is PASS !
+# temp:
+#  -4582   4582  17027      0      0      0      0      0      0      0      0      0      0      0      0      0  3:Pattern         181 is PASS !
+#  1:Pattern         182 is PASS !
+#  9:Pattern         183 is PASS !
+# temp:
+#  -2160   -486  10560   2376      0      0      0      0      0      0      0      0      0      0      0      0  3:Pattern         184 is PASS !
+#  3:Pattern         185 is PASS !
+#  1:Pattern         186 is PASS !
+#  3:Pattern         187 is PASS !
+#  3:Pattern         188 is PASS !
+#  1:Pattern         189 is PASS !
+#  9:Pattern         190 is PASS !
+# temp:
+#  -8733   -123   4551      0      0      0      0      0      0      0      0      0      0      0      0      0  1:Pattern         191 is PASS !
+#  1:Pattern         192 is PASS !
+#  1:Pattern         193 is PASS !
+#  9:Pattern         194 is PASS !
+# temp:
+#  -3759  -2339  10767  -1693      0      0      0      0      0      0      0      0      0      0      0      0  1:Pattern         195 is PASS !
+#  1:Pattern         196 is PASS !
+#  9:Pattern         197 is PASS !
+# temp:
+#   4532   -721   4429      0      0      0      0      0      0      0      0      0      0      0      0      0  3:Pattern         198 is PASS !
+#  3:Pattern         199 is PASS !
+#  1:Pattern         200 is PASS !
+#  9:Pattern         201 is PASS !
+# temp:
+# -13860  -8568  -9828      0      0      0      0      0      0      0      0      0      0      0      0      0  3:Pattern         202 is PASS !
+#  3:Pattern         203 is PASS !
+#  1:Pattern         204 is PASS !
+#  9:Pattern         205 is PASS !
+# temp:
+#    900   9100  -4300   -882  -8918   4214   -720  -7280   3440      0      0      0      0      0      0      0  3:Pattern         206 is PASS !
+#  3:Pattern         207 is PASS !
+#  1:Pattern         208 is PASS !
+#  3:Pattern         209 is PASS !
+#  3:Pattern         210 is PASS !
+#  1:Pattern         211 is PASS !
+#  3:Pattern         212 is PASS !
+#  3:Pattern         213 is PASS !
+#  1:Pattern         214 is PASS !
+#  6:Pattern         215 is PASS !
+# temp:
+#  -3312  -3780      0      0      0      0      0      0      0      0      0      0      0      0      0      0  3:Pattern         216 is PASS !
+#  1:Pattern         217 is PASS !
+#  9:Pattern         218 is PASS !
+# temp:
+#  -1211    764   8858  -7928  31110  30197      0      0      0      0      0      0      0      0      0      0  3:Pattern         219 is PASS !
+#  1:Pattern         220 is PASS !
+#  3:Pattern         221 is PASS !
+#  1:Pattern         222 is PASS !
+#  5:Pattern         223 is FAIL !. Expected value/is_legal = 4293276468/1,but the Response value/is_legal =     406324/1 !! 
+#  5:Pattern         224 is FAIL !. Expected value/is_legal = 4291865922/1,but the Response value/is_legal =    2534722/1 !! 
+#  9:Pattern         225 is PASS !
+# temp:
+#  -9312   1803 -13485  -1944   2424   -186      0      0      0      0      0      0      0      0      0      0  1:Pattern         226 is PASS !
+#  1:Pattern         227 is PASS !
+#  9:Pattern         228 is PASS !
+# temp:
+#  -1074   3948   1314  -5208      0      0      0      0      0      0      0      0      0      0      0      0  1:Pattern         229 is PASS !
+#  1:Pattern         230 is PASS !
+#  9:Pattern         231 is PASS !
+# temp:
+# -18608  -4065  -1858      0      0      0      0      0      0      0      0      0      0      0      0      0  3:Pattern         232 is PASS !
+#  3:Pattern         233 is PASS !
+#  1:Pattern         234 is PASS !
+#  3:Pattern         235 is PASS !
+#  3:Pattern         236 is PASS !
+#  1:Pattern         237 is PASS !
+#  3:Pattern         238 is PASS !
+#  3:Pattern         239 is PASS !
+#  1:Pattern         240 is PASS !
+#  9:Pattern         241 is PASS !
+# temp:
+# -13756    363  11792  15832   1223  -5556 -12211  -6856    120      0      0      0      0      0      0      0  3:Pattern         242 is PASS !
+#  1:Pattern         243 is PASS !
+#  3:Pattern         244 is PASS !
+#  1:Pattern         245 is PASS !
+#  3:Pattern         246 is PASS !
+#  1:Pattern         247 is PASS !
+#  9:Pattern         248 is PASS !
+# temp:
+#  -6784  -8978 -16647 -24641   2698  -3482      0      0      0      0      0      0      0      0      0      0  1:Pattern         249 is PASS !
+#  1:Pattern         250 is PASS !
+#  9:Pattern         251 is PASS !
+#  3:Pattern         252 is PASS !
+#  1:Pattern         253 is PASS !
+#  9:Pattern         254 is PASS !
+# temp:
+#  12109 -15694      0      0      0      0      0      0      0      0      0      0      0      0      0      0  3:Pattern         255 is PASS !
+#  3:Pattern         256 is PASS !
+#  1:Pattern         257 is PASS !
+#  9:Pattern         258 is PASS !
+# temp:
+#  19103 -10917  -9678  11638 -13186   2108      0      0      0      0      0      0      0      0      0      0  3:Pattern         259 is PASS !
+#  1:Pattern         260 is PASS !
+#  3:Pattern         261 is PASS !
+#  1:Pattern         262 is PASS !
+#  9:Pattern         263 is PASS !
+# temp:
+#   4468  -1192  -6679    893  -3585  -2695   6058   9294  -4622      0      0      0      0      0      0      0  3:Pattern         264 is PASS !
+#  3:Pattern         265 is PASS !
+#  1:Pattern         266 is PASS !
+#  3:Pattern         267 is PASS !
+#  3:Pattern         268 is PASS !
+#  1:Pattern         269 is PASS !
+#  3:Pattern         270 is PASS !
+#  3:Pattern         271 is PASS !
+#  1:Pattern         272 is PASS !
+# --------------------------- Simulation FINISH !!---------------------------
+# ============================================================================
+# 
+#  (T_T) FAIL!! The simulation result is FAIL!!! there were           5 errors at all.
+# 
+# ============================================================================
+# ** Note: $stop    : C:/Users/MS22YCChen/Downloads/2024_final_3/Q2/testfixture.v(286)
+#    Time: 75012500 ps  Iteration: 0  Instance: /testfixture1
+# Break in Module testfixture1 at C:/Users/MS22YCChen/Downloads/2024_final_3/Q2/testfixture.v line 286
+# Compile of MM.v was successful.
+vsim -gui work.testfixture1
+# End time: 09:17:30 on Jul 17,2024, Elapsed time: 0:00:50
+# Errors: 0, Warnings: 2
+# vsim -gui work.testfixture1 
+# Start time: 09:17:30 on Jul 17,2024
+# Loading work.testfixture1
+# Loading work.MM
+run -all
+# --------------------------- [ Simulation START !! ] ---------------------------
+#  9:Pattern           0 is PASS !
+# temp:
+#  -8591   2343   8804      0      0      0      0      0      0      0      0      0      0      0      0      0 =
+#  3:Pattern           1 is PASS !
+#  3:Pattern           2 is PASS !
+#  1:Pattern           3 is PASS !
+#  3:Pattern           4 is PASS !
+#  3:Pattern           5 is PASS !
+#  1:Pattern           6 is PASS !
+#  3:Pattern           7 is PASS !
+#  3:Pattern           8 is PASS !
+#  1:Pattern           9 is PASS !
+#  9:Pattern          10 is PASS !
+# temp:
+#  -9312  -2532      0      0      0      0      0      0      0      0      0      0      0      0      0      0 =
+#  3:Pattern          11 is PASS !
+#  3:Pattern          12 is PASS !
+#  1:Pattern          13 is PASS !
+#  9:Pattern          14 is PASS !
+# temp:
+#  -6454   6978  -9050  21614   1833  12438      0      0      0      0      0      0      0      0      0      0 =
+#  3:Pattern          15 is PASS !
+#  1:Pattern          16 is PASS !
+#  3:Pattern          17 is PASS !
+#  1:Pattern          18 is PASS !
+#  9:Pattern          19 is PASS !
+# temp:
+#  28132   4078 -31320  12456      0      0      0      0      0      0      0      0      0      0      0      0 =
+#  3:Pattern          20 is PASS !
+#  3:Pattern          21 is PASS !
+#  1:Pattern          22 is PASS !
+#  5:Pattern          23 is FAIL !. Expected value/is_legal =    3915776/1,but the Response value/is_legal = 4290691072/1 !! 
+#  5:Pattern          24 is FAIL !. Expected value/is_legal = 4294267824/1,but the Response value/is_legal =    1332144/1 !! 
+#  5:Pattern          25 is FAIL !. Expected value/is_legal =     711320/1,but the Response value/is_legal = 4292598424/1 !! 
+#  9:Pattern          26 is PASS !
+# temp:
+#   1350   2310  -5090      0      0      0      0      0      0      0      0      0      0      0      0      0 =
+#  3:Pattern          27 is PASS !
+#  3:Pattern          28 is PASS !
+#  1:Pattern          29 is PASS !
+#  9:Pattern          30 is PASS !
+#  3:Pattern          31 is PASS !
+#  3:Pattern          32 is PASS !
+#  1:Pattern          33 is PASS !
+#  9:Pattern          34 is PASS !
+# temp:
+#   3000  -2200   -450      0      0      0      0      0      0      0      0      0      0      0      0      0 =
+#  1:Pattern          35 is PASS !
+#  9:Pattern          36 is PASS !
+#  3:Pattern          37 is PASS !
+#  3:Pattern          38 is PASS !
+#  1:Pattern          39 is PASS !
+#  9:Pattern          40 is PASS !
+# temp:
+# -15488   2299      0      0      0      0      0      0      0      0      0      0      0      0      0      0 =
+#  3:Pattern          41 is PASS !
+#  1:Pattern          42 is PASS !
+#  3:Pattern          43 is PASS !
+#  1:Pattern          44 is PASS !
+#  9:Pattern          45 is PASS !
+# temp:
+#    392   1036   -840  -2220      0      0      0      0      0      0      0      0      0      0      0      0 =
+#  3:Pattern          46 is PASS !
+#  3:Pattern          47 is PASS !
+#  1:Pattern          48 is PASS !
+#  3:Pattern          49 is PASS !
+#  3:Pattern          50 is PASS !
+#  1:Pattern          51 is PASS !
+#  9:Pattern          52 is PASS !
+# temp:
+#   -377  -2659   3520   2116   2233    -78      0      0      0      0      0      0      0      0      0      0 =
+#  3:Pattern          53 is PASS !
+#  3:Pattern          54 is PASS !
+#  1:Pattern          55 is PASS !
+#  3:Pattern          56 is PASS !
+#  3:Pattern          57 is PASS !
+#  1:Pattern          58 is PASS !
+#  3:Pattern          59 is PASS !
+#  3:Pattern          60 is PASS !
+#  1:Pattern          61 is PASS !
+#  9:Pattern          62 is PASS !
+# temp:
+#   2420  -2068      0      0      0      0      0      0      0      0      0      0      0      0      0      0 =
+#  3:Pattern          63 is PASS !
+#  3:Pattern          64 is PASS !
+#  1:Pattern          65 is PASS !
+#  9:Pattern          66 is PASS !
+# temp:
+#   6253  -5416  14726  -8425      0      0      0      0      0      0      0      0      0      0      0      0 =
+#  1:Pattern          67 is PASS !
+#  1:Pattern          68 is PASS !
+#  9:Pattern          69 is PASS !
+# temp:
+#  -4809  -1201   5010  -2613    637   1518  -2100   -771   2418      0      0      0      0      0      0      0 =
+#  3:Pattern          70 is PASS !
+#  1:Pattern          71 is PASS !
+#  3:Pattern          72 is PASS !
+#  1:Pattern          73 is PASS !
+#  3:Pattern          74 is PASS !
+#  1:Pattern          75 is PASS !
+#  9:Pattern          76 is PASS !
+# temp:
+#  -4476  -1236  -1346      0      0      0      0      0      0      0      0      0      0      0      0      0 =
+#  3:Pattern          77 is PASS !
+#  1:Pattern          78 is PASS !
+#  3:Pattern          79 is PASS !
+#  1:Pattern          80 is PASS !
+#  3:Pattern          81 is PASS !
+#  1:Pattern          82 is PASS !
+#  9:Pattern          83 is PASS !
+# temp:
+#   -538 -16878 -13874   7089   3248  14970      0      0      0      0      0      0      0      0      0      0 =
+#  1:Pattern          84 is PASS !
+#  1:Pattern          85 is PASS !
+#  1:Pattern          86 is PASS !
+#  9:Pattern          87 is PASS !
+# temp:
+#   -144  -2352   1392   -690 -11270   6670   -372  -6076   3596      0      0      0      0      0      0      0 =
+#  3:Pattern          88 is PASS !
+#  1:Pattern          89 is PASS !
+#  3:Pattern          90 is PASS !
+#  1:Pattern          91 is PASS !
+#  3:Pattern          92 is PASS !
+#  1:Pattern          93 is PASS !
+#  9:Pattern          94 is PASS !
+# temp:
+#  -7580  14816   9552  -2393    689  -9795   6717  -5751  10950      0      0      0      0      0      0      0 =
+#  3:Pattern          95 is PASS !
+#  3:Pattern          96 is PASS !
+#  1:Pattern          97 is PASS !
+#  3:Pattern          98 is PASS !
+#  3:Pattern          99 is PASS !
+#  1:Pattern         100 is PASS !
+#  3:Pattern         101 is PASS !
+#  3:Pattern         102 is PASS !
+#  1:Pattern         103 is PASS !
+#  9:Pattern         104 is PASS !
+# temp:
+#   9795   6245      0      0      0      0      0      0      0      0      0      0      0      0      0      0 =
+#  3:Pattern         105 is PASS !
+#  3:Pattern         106 is PASS !
+#  1:Pattern         107 is PASS !
+#  3:Pattern         108 is PASS !
+#  3:Pattern         109 is PASS !
+#  1:Pattern         110 is PASS !
+#  9:Pattern         111 is PASS !
+# temp:
+#  -7924  21085 -18782  -7601      0      0      0      0      0      0      0      0      0      0      0      0 =
+#  1:Pattern         112 is PASS !
+#  1:Pattern         113 is PASS !
+#  9:Pattern         114 is PASS !
+# temp:
+#  10134   6410  -2301   1122     67   -750   4794   3713   -564      0      0      0      0      0      0      0 =
+#  3:Pattern         115 is PASS !
+#  3:Pattern         116 is PASS !
+#  1:Pattern         117 is PASS !
+#  3:Pattern         118 is PASS !
+#  3:Pattern         119 is PASS !
+#  1:Pattern         120 is PASS !
+#  3:Pattern         121 is PASS !
+#  3:Pattern         122 is PASS !
+#  1:Pattern         123 is PASS !
+#  9:Pattern         124 is PASS !
+#  3:Pattern         125 is PASS !
+#  3:Pattern         126 is PASS !
+#  1:Pattern         127 is PASS !
+#  9:Pattern         128 is PASS !
+#  3:Pattern         129 is PASS !
+#  3:Pattern         130 is PASS !
+#  1:Pattern         131 is PASS !
+#  6:Pattern         132 is PASS !
+# temp:
+#      0   1071      0      0      0      0      0      0      0      0      0      0      0      0      0      0 =
+#  3:Pattern         133 is PASS !
+#  1:Pattern         134 is PASS !
+#  3:Pattern         135 is PASS !
+#  1:Pattern         136 is PASS !
+#  9:Pattern         137 is PASS !
+# temp:
+# -10769   2904   3560   -960      0      0      0      0      0      0      0      0      0      0      0      0 =
+#  3:Pattern         138 is PASS !
+#  3:Pattern         139 is PASS !
+#  1:Pattern         140 is PASS !
+#  3:Pattern         141 is PASS !
+#  3:Pattern         142 is PASS !
+#  1:Pattern         143 is PASS !
+#  9:Pattern         144 is PASS !
+# temp:
+#   4096  -4672      0      0      0      0      0      0      0      0      0      0      0      0      0      0 =
+#  1:Pattern         145 is PASS !
+#  9:Pattern         146 is PASS !
+# temp:
+#   2724  10593   5261  -3365  -4693  -2372   2170   6287   3133      0      0      0      0      0      0      0 =
+#  3:Pattern         147 is PASS !
+#  3:Pattern         148 is PASS !
+#  1:Pattern         149 is PASS !
+#  3:Pattern         150 is PASS !
+#  3:Pattern         151 is PASS !
+#  1:Pattern         152 is PASS !
+#  3:Pattern         153 is PASS !
+#  3:Pattern         154 is PASS !
+#  1:Pattern         155 is PASS !
+#  9:Pattern         156 is PASS !
+# temp:
+#  -1134  -1260      0      0      0      0      0      0      0      0      0      0      0      0      0      0 =
+#  1:Pattern         157 is PASS !
+#  1:Pattern         158 is PASS !
+#  9:Pattern         159 is PASS !
+# temp:
+#   2540   2540     40 -16002 -16002   -252      0      0      0      0      0      0      0      0      0      0 =
+#  3:Pattern         160 is PASS !
+#  3:Pattern         161 is PASS !
+#  1:Pattern         162 is PASS !
+#  3:Pattern         163 is PASS !
+#  3:Pattern         164 is PASS !
+#  1:Pattern         165 is PASS !
+#  9:Pattern         166 is PASS !
+#  1:Pattern         167 is PASS !
+#  6:Pattern         168 is PASS !
+# temp:
+#  -9950   1295   9905      0      0      0      0      0      0      0      0      0      0      0      0      0 =
+#  1:Pattern         169 is PASS !
+#  9:Pattern         170 is PASS !
+# temp:
+#  -3168   3648    -36      0      0      0      0      0      0      0      0      0      0      0      0      0 =
+#  3:Pattern         171 is PASS !
+#  3:Pattern         172 is PASS !
+#  1:Pattern         173 is PASS !
+#  3:Pattern         174 is PASS !
+#  3:Pattern         175 is PASS !
+#  1:Pattern         176 is PASS !
+#  3:Pattern         177 is PASS !
+#  3:Pattern         178 is PASS !
+#  1:Pattern         179 is PASS !
+#  9:Pattern         180 is PASS !
+# temp:
+#  -4582   4582  17027      0      0      0      0      0      0      0      0      0      0      0      0      0 =
+#  3:Pattern         181 is PASS !
+#  1:Pattern         182 is PASS !
+#  9:Pattern         183 is PASS !
+# temp:
+#  -2160   -486  10560   2376      0      0      0      0      0      0      0      0      0      0      0      0 =
+#  3:Pattern         184 is PASS !
+#  3:Pattern         185 is PASS !
+#  1:Pattern         186 is PASS !
+#  3:Pattern         187 is PASS !
+#  3:Pattern         188 is PASS !
+#  1:Pattern         189 is PASS !
+#  9:Pattern         190 is PASS !
+# temp:
+#  -8733   -123   4551      0      0      0      0      0      0      0      0      0      0      0      0      0 =
+#  1:Pattern         191 is PASS !
+#  1:Pattern         192 is PASS !
+#  1:Pattern         193 is PASS !
+#  9:Pattern         194 is PASS !
+# temp:
+#  -3759  -2339  10767  -1693      0      0      0      0      0      0      0      0      0      0      0      0 =
+#  1:Pattern         195 is PASS !
+#  1:Pattern         196 is PASS !
+#  9:Pattern         197 is PASS !
+# temp:
+#   4532   -721   4429      0      0      0      0      0      0      0      0      0      0      0      0      0 =
+#  3:Pattern         198 is PASS !
+#  3:Pattern         199 is PASS !
+#  1:Pattern         200 is PASS !
+#  9:Pattern         201 is PASS !
+# temp:
+# -13860  -8568  -9828      0      0      0      0      0      0      0      0      0      0      0      0      0 =
+#  3:Pattern         202 is PASS !
+#  3:Pattern         203 is PASS !
+#  1:Pattern         204 is PASS !
+#  9:Pattern         205 is PASS !
+# temp:
+#    900   9100  -4300   -882  -8918   4214   -720  -7280   3440      0      0      0      0      0      0      0 =
+#  3:Pattern         206 is PASS !
+#  3:Pattern         207 is PASS !
+#  1:Pattern         208 is PASS !
+#  3:Pattern         209 is PASS !
+#  3:Pattern         210 is PASS !
+#  1:Pattern         211 is PASS !
+#  3:Pattern         212 is PASS !
+#  3:Pattern         213 is PASS !
+#  1:Pattern         214 is PASS !
+#  6:Pattern         215 is PASS !
+# temp:
+#  -3312  -3780      0      0      0      0      0      0      0      0      0      0      0      0      0      0 =
+#  3:Pattern         216 is PASS !
+#  1:Pattern         217 is PASS !
+#  9:Pattern         218 is PASS !
+# temp:
+#  -1211    764   8858  -7928  31110  30197      0      0      0      0      0      0      0      0      0      0 =
+#  3:Pattern         219 is PASS !
+#  1:Pattern         220 is PASS !
+#  3:Pattern         221 is PASS !
+#  1:Pattern         222 is PASS !
+#  5:Pattern         223 is FAIL !. Expected value/is_legal = 4293276468/1,but the Response value/is_legal =     406324/1 !! 
+#  5:Pattern         224 is FAIL !. Expected value/is_legal = 4291865922/1,but the Response value/is_legal =    2534722/1 !! 
+#  9:Pattern         225 is PASS !
+# temp:
+#  -9312   1803 -13485  -1944   2424   -186      0      0      0      0      0      0      0      0      0      0 =
+#  1:Pattern         226 is PASS !
+#  1:Pattern         227 is PASS !
+#  9:Pattern         228 is PASS !
+# temp:
+#  -1074   3948   1314  -5208      0      0      0      0      0      0      0      0      0      0      0      0 =
+#  1:Pattern         229 is PASS !
+#  1:Pattern         230 is PASS !
+#  9:Pattern         231 is PASS !
+# temp:
+# -18608  -4065  -1858      0      0      0      0      0      0      0      0      0      0      0      0      0 =
+#  3:Pattern         232 is PASS !
+#  3:Pattern         233 is PASS !
+#  1:Pattern         234 is PASS !
+#  3:Pattern         235 is PASS !
+#  3:Pattern         236 is PASS !
+#  1:Pattern         237 is PASS !
+#  3:Pattern         238 is PASS !
+#  3:Pattern         239 is PASS !
+#  1:Pattern         240 is PASS !
+#  9:Pattern         241 is PASS !
+# temp:
+# -13756    363  11792  15832   1223  -5556 -12211  -6856    120      0      0      0      0      0      0      0 =
+#  3:Pattern         242 is PASS !
+#  1:Pattern         243 is PASS !
+#  3:Pattern         244 is PASS !
+#  1:Pattern         245 is PASS !
+#  3:Pattern         246 is PASS !
+#  1:Pattern         247 is PASS !
+#  9:Pattern         248 is PASS !
+# temp:
+#  -6784  -8978 -16647 -24641   2698  -3482      0      0      0      0      0      0      0      0      0      0 =
+#  1:Pattern         249 is PASS !
+#  1:Pattern         250 is PASS !
+#  9:Pattern         251 is PASS !
+#  3:Pattern         252 is PASS !
+#  1:Pattern         253 is PASS !
+#  9:Pattern         254 is PASS !
+# temp:
+#  12109 -15694      0      0      0      0      0      0      0      0      0      0      0      0      0      0 =
+#  3:Pattern         255 is PASS !
+#  3:Pattern         256 is PASS !
+#  1:Pattern         257 is PASS !
+#  9:Pattern         258 is PASS !
+# temp:
+#  19103 -10917  -9678  11638 -13186   2108      0      0      0      0      0      0      0      0      0      0 =
+#  3:Pattern         259 is PASS !
+#  1:Pattern         260 is PASS !
+#  3:Pattern         261 is PASS !
+#  1:Pattern         262 is PASS !
+#  9:Pattern         263 is PASS !
+# temp:
+#   4468  -1192  -6679    893  -3585  -2695   6058   9294  -4622      0      0      0      0      0      0      0 =
+#  3:Pattern         264 is PASS !
+#  3:Pattern         265 is PASS !
+#  1:Pattern         266 is PASS !
+#  3:Pattern         267 is PASS !
+#  3:Pattern         268 is PASS !
+#  1:Pattern         269 is PASS !
+#  3:Pattern         270 is PASS !
+#  3:Pattern         271 is PASS !
+#  1:Pattern         272 is PASS !
+# --------------------------- Simulation FINISH !!---------------------------
+# ============================================================================
+# 
+#  (T_T) FAIL!! The simulation result is FAIL!!! there were           5 errors at all.
+# 
+# ============================================================================
+# ** Note: $stop    : C:/Users/MS22YCChen/Downloads/2024_final_3/Q2/testfixture.v(286)
+#    Time: 75012500 ps  Iteration: 0  Instance: /testfixture1
+# Break in Module testfixture1 at C:/Users/MS22YCChen/Downloads/2024_final_3/Q2/testfixture.v line 286
+# Compile of MM.v was successful.
+vsim -gui work.testfixture1
+# End time: 09:21:18 on Jul 17,2024, Elapsed time: 0:03:48
+# Errors: 0, Warnings: 2
+# vsim -gui work.testfixture1 
+# Start time: 09:21:18 on Jul 17,2024
+# Loading work.testfixture1
+# Loading work.MM
+run -all
+# --------------------------- [ Simulation START !! ] ---------------------------
+#  9:Pattern           0 is PASS !
+# temp:
+#   -8591    2343    8804       0       0       0       0       0       0       0       0       0       0       0       0       0 
+# 
+#  3:Pattern           1 is PASS !
+#  3:Pattern           2 is PASS !
+#  1:Pattern           3 is PASS !
+#  3:Pattern           4 is PASS !
+#  3:Pattern           5 is PASS !
+#  1:Pattern           6 is PASS !
+#  3:Pattern           7 is PASS !
+#  3:Pattern           8 is PASS !
+#  1:Pattern           9 is PASS !
+#  9:Pattern          10 is PASS !
+# temp:
+#   -9312   -2532       0       0       0       0       0       0       0       0       0       0       0       0       0       0 
+# 
+#  3:Pattern          11 is PASS !
+#  3:Pattern          12 is PASS !
+#  1:Pattern          13 is PASS !
+#  9:Pattern          14 is PASS !
+# temp:
+#   -6454    6978   -9050   21614    1833   12438       0       0       0       0       0       0       0       0       0       0 
+# 
+#  3:Pattern          15 is PASS !
+#  1:Pattern          16 is PASS !
+#  3:Pattern          17 is PASS !
+#  1:Pattern          18 is PASS !
+#  9:Pattern          19 is PASS !
+# temp:
+#   28132    4078   34216   12456       0       0       0       0       0       0       0       0       0       0       0       0 
+# 
+#  3:Pattern          20 is PASS !
+#  3:Pattern          21 is PASS !
+#  1:Pattern          22 is PASS !
+#  3:Pattern          23 is PASS !
+#  3:Pattern          24 is PASS !
+#  1:Pattern          25 is PASS !
+#  9:Pattern          26 is PASS !
+# temp:
+#    1350    2310   -5090       0       0       0       0       0       0       0       0       0       0       0       0       0 
+# 
+#  3:Pattern          27 is PASS !
+#  3:Pattern          28 is PASS !
+#  1:Pattern          29 is PASS !
+#  9:Pattern          30 is PASS !
+#  3:Pattern          31 is PASS !
+#  3:Pattern          32 is PASS !
+#  1:Pattern          33 is PASS !
+#  9:Pattern          34 is PASS !
+# temp:
+#    3000   -2200    -450       0       0       0       0       0       0       0       0       0       0       0       0       0 
+# 
+#  1:Pattern          35 is PASS !
+#  9:Pattern          36 is PASS !
+#  3:Pattern          37 is PASS !
+#  3:Pattern          38 is PASS !
+#  1:Pattern          39 is PASS !
+#  9:Pattern          40 is PASS !
+# temp:
+#  -15488    2299       0       0       0       0       0       0       0       0       0       0       0       0       0       0 
+# 
+#  3:Pattern          41 is PASS !
+#  1:Pattern          42 is PASS !
+#  3:Pattern          43 is PASS !
+#  1:Pattern          44 is PASS !
+#  9:Pattern          45 is PASS !
+# temp:
+#     392    1036    -840   -2220       0       0       0       0       0       0       0       0       0       0       0       0 
+# 
+#  3:Pattern          46 is PASS !
+#  3:Pattern          47 is PASS !
+#  1:Pattern          48 is PASS !
+#  3:Pattern          49 is PASS !
+#  3:Pattern          50 is PASS !
+#  1:Pattern          51 is PASS !
+#  9:Pattern          52 is PASS !
+# temp:
+#    -377   -2659    3520    2116    2233     -78       0       0       0       0       0       0       0       0       0       0 
+# 
+#  3:Pattern          53 is PASS !
+#  3:Pattern          54 is PASS !
+#  1:Pattern          55 is PASS !
+#  3:Pattern          56 is PASS !
+#  3:Pattern          57 is PASS !
+#  1:Pattern          58 is PASS !
+#  3:Pattern          59 is PASS !
+#  3:Pattern          60 is PASS !
+#  1:Pattern          61 is PASS !
+#  9:Pattern          62 is PASS !
+# temp:
+#    2420   -2068       0       0       0       0       0       0       0       0       0       0       0       0       0       0 
+# 
+#  3:Pattern          63 is PASS !
+#  3:Pattern          64 is PASS !
+#  1:Pattern          65 is PASS !
+#  9:Pattern          66 is PASS !
+# temp:
+#    6253   -5416   14726   -8425       0       0       0       0       0       0       0       0       0       0       0       0 
+# 
+#  1:Pattern          67 is PASS !
+#  1:Pattern          68 is PASS !
+#  9:Pattern          69 is PASS !
+# temp:
+#   -4809   -1201    5010   -2613     637    1518   -2100    -771    2418       0       0       0       0       0       0       0 
+# 
+#  3:Pattern          70 is PASS !
+#  1:Pattern          71 is PASS !
+#  3:Pattern          72 is PASS !
+#  1:Pattern          73 is PASS !
+#  3:Pattern          74 is PASS !
+#  1:Pattern          75 is PASS !
+#  9:Pattern          76 is PASS !
+# temp:
+#   -4476   -1236   -1346       0       0       0       0       0       0       0       0       0       0       0       0       0 
+# 
+#  3:Pattern          77 is PASS !
+#  1:Pattern          78 is PASS !
+#  3:Pattern          79 is PASS !
+#  1:Pattern          80 is PASS !
+#  3:Pattern          81 is PASS !
+#  1:Pattern          82 is PASS !
+#  9:Pattern          83 is PASS !
+# temp:
+#    -538  -16878  -13874    7089    3248   14970       0       0       0       0       0       0       0       0       0       0 
+# 
+#  1:Pattern          84 is PASS !
+#  1:Pattern          85 is PASS !
+#  1:Pattern          86 is PASS !
+#  9:Pattern          87 is PASS !
+# temp:
+#    -144   -2352    1392    -690  -11270    6670    -372   -6076    3596       0       0       0       0       0       0       0 
+# 
+#  3:Pattern          88 is PASS !
+#  1:Pattern          89 is PASS !
+#  3:Pattern          90 is PASS !
+#  1:Pattern          91 is PASS !
+#  3:Pattern          92 is PASS !
+#  1:Pattern          93 is PASS !
+#  9:Pattern          94 is PASS !
+# temp:
+#   -7580   14816    9552   -2393     689   -9795    6717   -5751   10950       0       0       0       0       0       0       0 
+# 
+#  3:Pattern          95 is PASS !
+#  3:Pattern          96 is PASS !
+#  1:Pattern          97 is PASS !
+#  3:Pattern          98 is PASS !
+#  3:Pattern          99 is PASS !
+#  1:Pattern         100 is PASS !
+#  3:Pattern         101 is PASS !
+#  3:Pattern         102 is PASS !
+#  1:Pattern         103 is PASS !
+#  9:Pattern         104 is PASS !
+# temp:
+#    9795    6245       0       0       0       0       0       0       0       0       0       0       0       0       0       0 
+# 
+#  3:Pattern         105 is PASS !
+#  3:Pattern         106 is PASS !
+#  1:Pattern         107 is PASS !
+#  3:Pattern         108 is PASS !
+#  3:Pattern         109 is PASS !
+#  1:Pattern         110 is PASS !
+#  9:Pattern         111 is PASS !
+# temp:
+#   -7924   21085  -18782   -7601       0       0       0       0       0       0       0       0       0       0       0       0 
+# 
+#  1:Pattern         112 is PASS !
+#  1:Pattern         113 is PASS !
+#  9:Pattern         114 is PASS !
+# temp:
+#   10134    6410   -2301    1122      67    -750    4794    3713    -564       0       0       0       0       0       0       0 
+# 
+#  3:Pattern         115 is PASS !
+#  3:Pattern         116 is PASS !
+#  1:Pattern         117 is PASS !
+#  3:Pattern         118 is PASS !
+#  3:Pattern         119 is PASS !
+#  1:Pattern         120 is PASS !
+#  3:Pattern         121 is PASS !
+#  3:Pattern         122 is PASS !
+#  1:Pattern         123 is PASS !
+#  9:Pattern         124 is PASS !
+#  3:Pattern         125 is PASS !
+#  3:Pattern         126 is PASS !
+#  1:Pattern         127 is PASS !
+#  9:Pattern         128 is PASS !
+#  3:Pattern         129 is PASS !
+#  3:Pattern         130 is PASS !
+#  1:Pattern         131 is PASS !
+#  6:Pattern         132 is PASS !
+# temp:
+#       0    1071       0       0       0       0       0       0       0       0       0       0       0       0       0       0 
+# 
+#  3:Pattern         133 is PASS !
+#  1:Pattern         134 is PASS !
+#  3:Pattern         135 is PASS !
+#  1:Pattern         136 is PASS !
+#  9:Pattern         137 is PASS !
+# temp:
+#  -10769    2904    3560    -960       0       0       0       0       0       0       0       0       0       0       0       0 
+# 
+#  3:Pattern         138 is PASS !
+#  3:Pattern         139 is PASS !
+#  1:Pattern         140 is PASS !
+#  3:Pattern         141 is PASS !
+#  3:Pattern         142 is PASS !
+#  1:Pattern         143 is PASS !
+#  9:Pattern         144 is PASS !
+# temp:
+#    4096   -4672       0       0       0       0       0       0       0       0       0       0       0       0       0       0 
+# 
+#  1:Pattern         145 is PASS !
+#  9:Pattern         146 is PASS !
+# temp:
+#    2724   10593    5261   -3365   -4693   -2372    2170    6287    3133       0       0       0       0       0       0       0 
+# 
+#  3:Pattern         147 is PASS !
+#  3:Pattern         148 is PASS !
+#  1:Pattern         149 is PASS !
+#  3:Pattern         150 is PASS !
+#  3:Pattern         151 is PASS !
+#  1:Pattern         152 is PASS !
+#  3:Pattern         153 is PASS !
+#  3:Pattern         154 is PASS !
+#  1:Pattern         155 is PASS !
+#  9:Pattern         156 is PASS !
+# temp:
+#   -1134   -1260       0       0       0       0       0       0       0       0       0       0       0       0       0       0 
+# 
+#  1:Pattern         157 is PASS !
+#  1:Pattern         158 is PASS !
+#  9:Pattern         159 is PASS !
+# temp:
+#    2540    2540      40  -16002  -16002    -252       0       0       0       0       0       0       0       0       0       0 
+# 
+#  3:Pattern         160 is PASS !
+#  3:Pattern         161 is PASS !
+#  1:Pattern         162 is PASS !
+#  3:Pattern         163 is PASS !
+#  3:Pattern         164 is PASS !
+#  1:Pattern         165 is PASS !
+#  9:Pattern         166 is PASS !
+#  1:Pattern         167 is PASS !
+#  6:Pattern         168 is PASS !
+# temp:
+#   -9950    1295    9905       0       0       0       0       0       0       0       0       0       0       0       0       0 
+# 
+#  1:Pattern         169 is PASS !
+#  9:Pattern         170 is PASS !
+# temp:
+#   -3168    3648     -36       0       0       0       0       0       0       0       0       0       0       0       0       0 
+# 
+#  3:Pattern         171 is PASS !
+#  3:Pattern         172 is PASS !
+#  1:Pattern         173 is PASS !
+#  3:Pattern         174 is PASS !
+#  3:Pattern         175 is PASS !
+#  1:Pattern         176 is PASS !
+#  3:Pattern         177 is PASS !
+#  3:Pattern         178 is PASS !
+#  1:Pattern         179 is PASS !
+#  9:Pattern         180 is PASS !
+# temp:
+#   -4582    4582   17027       0       0       0       0       0       0       0       0       0       0       0       0       0 
+# 
+#  3:Pattern         181 is PASS !
+#  1:Pattern         182 is PASS !
+#  9:Pattern         183 is PASS !
+# temp:
+#   -2160    -486   10560    2376       0       0       0       0       0       0       0       0       0       0       0       0 
+# 
+#  3:Pattern         184 is PASS !
+#  3:Pattern         185 is PASS !
+#  1:Pattern         186 is PASS !
+#  3:Pattern         187 is PASS !
+#  3:Pattern         188 is PASS !
+#  1:Pattern         189 is PASS !
+#  9:Pattern         190 is PASS !
+# temp:
+#   -8733    -123    4551       0       0       0       0       0       0       0       0       0       0       0       0       0 
+# 
+#  1:Pattern         191 is PASS !
+#  1:Pattern         192 is PASS !
+#  1:Pattern         193 is PASS !
+#  9:Pattern         194 is PASS !
+# temp:
+#   -3759   -2339   10767   -1693       0       0       0       0       0       0       0       0       0       0       0       0 
+# 
+#  1:Pattern         195 is PASS !
+#  1:Pattern         196 is PASS !
+#  9:Pattern         197 is PASS !
+# temp:
+#    4532    -721    4429       0       0       0       0       0       0       0       0       0       0       0       0       0 
+# 
+#  3:Pattern         198 is PASS !
+#  3:Pattern         199 is PASS !
+#  1:Pattern         200 is PASS !
+#  9:Pattern         201 is PASS !
+# temp:
+#  -13860   -8568   -9828       0       0       0       0       0       0       0       0       0       0       0       0       0 
+# 
+#  3:Pattern         202 is PASS !
+#  3:Pattern         203 is PASS !
+#  1:Pattern         204 is PASS !
+#  9:Pattern         205 is PASS !
+# temp:
+#     900    9100   -4300    -882   -8918    4214    -720   -7280    3440       0       0       0       0       0       0       0 
+# 
+#  3:Pattern         206 is PASS !
+#  3:Pattern         207 is PASS !
+#  1:Pattern         208 is PASS !
+#  3:Pattern         209 is PASS !
+#  3:Pattern         210 is PASS !
+#  1:Pattern         211 is PASS !
+#  3:Pattern         212 is PASS !
+#  3:Pattern         213 is PASS !
+#  1:Pattern         214 is PASS !
+#  6:Pattern         215 is PASS !
+# temp:
+#   -3312   -3780       0       0       0       0       0       0       0       0       0       0       0       0       0       0 
+# 
+#  3:Pattern         216 is PASS !
+#  1:Pattern         217 is PASS !
+#  9:Pattern         218 is PASS !
+# temp:
+#   -1211     764    8858   -7928   31110  -35339       0       0       0       0       0       0       0       0       0       0 
+# 
+#  3:Pattern         219 is PASS !
+#  1:Pattern         220 is PASS !
+#  3:Pattern         221 is PASS !
+#  1:Pattern         222 is PASS !
+#  3:Pattern         223 is PASS !
+#  1:Pattern         224 is PASS !
+#  9:Pattern         225 is PASS !
+# temp:
+#   -9312    1803  -13485   -1944    2424    -186       0       0       0       0       0       0       0       0       0       0 
+# 
+#  1:Pattern         226 is PASS !
+#  1:Pattern         227 is PASS !
+#  9:Pattern         228 is PASS !
+# temp:
+#   -1074    3948    1314   -5208       0       0       0       0       0       0       0       0       0       0       0       0 
+# 
+#  1:Pattern         229 is PASS !
+#  1:Pattern         230 is PASS !
+#  9:Pattern         231 is PASS !
+# temp:
+#  -18608   -4065   -1858       0       0       0       0       0       0       0       0       0       0       0       0       0 
+# 
+#  3:Pattern         232 is PASS !
+#  3:Pattern         233 is PASS !
+#  1:Pattern         234 is PASS !
+#  3:Pattern         235 is PASS !
+#  3:Pattern         236 is PASS !
+#  1:Pattern         237 is PASS !
+#  3:Pattern         238 is PASS !
+#  3:Pattern         239 is PASS !
+#  1:Pattern         240 is PASS !
+#  9:Pattern         241 is PASS !
+# temp:
+#  -13756     363   11792   15832    1223   -5556  -12211   -6856     120       0       0       0       0       0       0       0 
+# 
+#  3:Pattern         242 is PASS !
+#  1:Pattern         243 is PASS !
+#  3:Pattern         244 is PASS !
+#  1:Pattern         245 is PASS !
+#  3:Pattern         246 is PASS !
+#  1:Pattern         247 is PASS !
+#  9:Pattern         248 is PASS !
+# temp:
+#   -6784   -8978  -16647  -24641    2698   -3482       0       0       0       0       0       0       0       0       0       0 
+# 
+#  1:Pattern         249 is PASS !
+#  1:Pattern         250 is PASS !
+#  9:Pattern         251 is PASS !
+#  3:Pattern         252 is PASS !
+#  1:Pattern         253 is PASS !
+#  9:Pattern         254 is PASS !
+# temp:
+#   12109  -15694       0       0       0       0       0       0       0       0       0       0       0       0       0       0 
+# 
+#  3:Pattern         255 is PASS !
+#  3:Pattern         256 is PASS !
+#  1:Pattern         257 is PASS !
+#  9:Pattern         258 is PASS !
+# temp:
+#   19103  -10917   -9678   11638  -13186    2108       0       0       0       0       0       0       0       0       0       0 
+# 
+#  3:Pattern         259 is PASS !
+#  1:Pattern         260 is PASS !
+#  3:Pattern         261 is PASS !
+#  1:Pattern         262 is PASS !
+#  9:Pattern         263 is PASS !
+# temp:
+#    4468   -1192   -6679     893   -3585   -2695    6058    9294   -4622       0       0       0       0       0       0       0 
+# 
+#  3:Pattern         264 is PASS !
+#  3:Pattern         265 is PASS !
+#  1:Pattern         266 is PASS !
+#  3:Pattern         267 is PASS !
+#  3:Pattern         268 is PASS !
+#  1:Pattern         269 is PASS !
+#  3:Pattern         270 is PASS !
+#  3:Pattern         271 is PASS !
+#  1:Pattern         272 is PASS !
+# --------------------------- Simulation FINISH !!---------------------------
+# ============================================================================
+# 
+#  \(^o^)/ CONGRATULATIONS!!  The simulation result is PASS!!!
+# 
+# ============================================================================
+# ** Note: $stop    : C:/Users/MS22YCChen/Downloads/2024_final_3/Q2/testfixture.v(286)
+#    Time: 75012500 ps  Iteration: 0  Instance: /testfixture1
+# Break in Module testfixture1 at C:/Users/MS22YCChen/Downloads/2024_final_3/Q2/testfixture.v line 286
+# End time: 09:21:54 on Jul 17,2024, Elapsed time: 0:00:36
+# Errors: 0, Warnings: 1

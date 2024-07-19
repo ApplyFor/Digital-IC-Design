@@ -1,0 +1,60 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1/modelsim_ase/win32aloem
+vAEC
+!s110 1716072961
+!i10b 1
+!s100 K:2@IlB[FhM3E^LJFQlka0
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IZ:<1kAH5?]A?nFC^0:Q2:1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/CYC/Desktop/2023_hw3
+w1716072957
+8C:/Users/CYC/Desktop/2023_hw3/AEC.v
+FC:/Users/CYC/Desktop/2023_hw3/AEC.v
+!i122 90
+L0 1 222
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1716072961.000000
+!s107 C:/Users/CYC/Desktop/2023_hw3/AEC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/CYC/Desktop/2023_hw3/AEC.v|
+!i113 1
+o-work work
+Z4 tCvgOpt 0
+n@a@e@c
+vtestfixture
+DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1716068460
+!i10b 1
+!s100 LPmz;ffmWIi[NaUOEW=gV3
+R0
+IHSaeAFfm0;FaKAP@NN9T[0
+R1
+S1
+R2
+w1682342389
+8C:/Users/CYC/Desktop/2023_hw3/testfixture.sv
+FC:/Users/CYC/Desktop/2023_hw3/testfixture.sv
+!i122 78
+L0 8 210
+R3
+r1
+!s85 0
+31
+!s108 1716068460.000000
+!s107 C:/Users/CYC/Desktop/2023_hw3/testfixture.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/CYC/Desktop/2023_hw3/testfixture.sv|
+!i113 1
+o-work work -sv
+R4

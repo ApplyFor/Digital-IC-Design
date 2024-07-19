@@ -1,0 +1,59 @@
+# Reading pref.tcl
+# OpenFile {C:/Users/CYC/Downloads/Meeting Room 3/Q2a/CONV3x3.v}
+# Loading project 2a
+# Compile of CONV3x3.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Load canceled
+# reading C:/intelFPGA/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project z
+# Compile of AEC.v was successful.
+# Compile of testfixture.sv was successful.
+# 2 compiles, 0 failed with no errors.
+# Load canceled
+# reading C:/intelFPGA/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project zzz
+# Compile of CONV3x3.v was successful.
+# Compile of testfixture.v was successful.
+# Load canceled
+vsim -gui work.testfixture
+# vsim -gui work.testfixture 
+# Start time: 11:55:41 on May 30,2023
+# Loading work.testfixture
+# Loading work.CONV3x3
+run -all
+# -----------------------------------------------------
+# 
+# START!!! Simulation Start .....
+# 
+# -----------------------------------------------------
+# 
+# Layer 0 output is correct !
+# Layer 1 output is correct!
+#  
+# -----------------------------------------------------
+# 
+# --------------------- S U M M A R Y -----------------
+# 
+# Congratulations! Layer 0 data have been generated successfully! The result is PASS!!
+# 
+# Congratulations! Layer 1 data have been generated successfully! The result is PASS!!
+# 
+# terminate at      51212 cycle
+# -----------------------------------------------------
+# 
+# ** Note: $finish    : C:/Users/CYC/Downloads/Meeting Room 3/Q2a/testfixture.v(179)
+#    Time: 1536360 ns  Iteration: 0  Instance: /testfixture
+# 1
+# Break in Module testfixture at C:/Users/CYC/Downloads/Meeting Room 3/Q2a/testfixture.v line 179
+sim -quit
+# bad option "-quit": must be blank, cget, configure, copy, data, get, put, read, redither, transparency, or write
+quit -sim
+# End time: 11:57:17 on May 30,2023, Elapsed time: 0:01:36
+# Errors: 0, Warnings: 14
+# reading C:/intelFPGA/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project z
+# Compile of testfixture.v failed with 1 errors.
+# Compile of CONV5x5.v failed with 1 errors.
+# Compile of testfixture.v failed with 1 errors.
+# 2 compiles, 2 failed with 2 errors.

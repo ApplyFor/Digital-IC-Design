@@ -1,0 +1,10 @@
+# Reading pref.tcl
+# error: Layout::Clairvoyance can't read "map()": no such element in array
+# can't read "map()": no such element in array
+#     while executing
+# "Layout::Clairvoyance"
+# error stack: INNER
+# invokeStk1 Layout::Clairvoyance
+# CALL
+# GUIMAIN
+# OpenFile {C:/Users/CYC/ÑÚÔlü (p76111783@gs.ncku.edu.tw)/Computer Science/P76111783/DIC/hw3/AEC.v}

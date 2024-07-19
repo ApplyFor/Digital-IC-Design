@@ -1,0 +1,5891 @@
+# Compile of CIPU.v failed with 2 errors.
+# Compile of CIPU.v was successful.
+vsim -gui work.textfixture
+# vsim -gui work.textfixture 
+# Start time: 16:32:21 on Apr 29,2024
+# Loading sv_std.std
+# Loading work.textfixture
+# Loading work.CIPU
+run -all
+# **************************************************
+# ***********      Simulation Start      ***********
+# **************************************************
+# FIFO2: Error at   0th, your answer is 3b but the correct answer is 39
+# FIFO2: Error at   1th, your answer is 7f but the correct answer is 34
+# FIFO2: Error at   2th, your answer is 7f but the correct answer is 34
+# FIFO2: Error at   3th, your answer is 7f but the correct answer is 33
+# FIFO2: Error at   4th, your answer is 7f but the correct answer is 32
+# FIFO2: Error at   5th, your answer is 7f but the correct answer is 37
+# FIFO2: Error at   6th, your answer is 7f but the correct answer is 39
+# FIFO2: Error at   7th, your answer is 7f but the correct answer is 38
+# FIFO2: Error at   8th, your answer is 7f but the correct answer is 34
+# FIFO2: Error at   9th, your answer is 7f but the correct answer is 31
+# 
+# 
+# !!! Failed pulling down valid_fifo2 signal, Simulation STOP !!!
+# 
+# 
+# ** Note: $finish    : C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv(208)
+#    Time: 645 ns  Iteration: 1  Instance: /textfixture
+# 1
+# Break in Module textfixture at C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv line 208
+# Compile of CIPU.v was successful.
+# Compile of tb.sv was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.textfixture
+# End time: 16:42:14 on Apr 29,2024, Elapsed time: 0:09:53
+# Errors: 0, Warnings: 4
+# vsim -gui work.textfixture 
+# Start time: 16:42:14 on Apr 29,2024
+# Loading sv_std.std
+# Loading work.textfixture
+# Loading work.CIPU
+run -all
+# **************************************************
+# ***********      Simulation Start      ***********
+# **************************************************
+# session:  
+# 
+# session:  
+# 
+# session:  
+# 
+# session:  
+# 
+# session:  3
+# 
+# session:  9
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# index:  2
+# 
+# index:  3
+# 
+# FIFO2: Error at   0th, your answer is 3b but the correct answer is 39
+# index:  4
+# 
+# FIFO2: Error at   1th, your answer is 7f but the correct answer is 34
+# index:  5
+# 
+# FIFO2: Error at   2th, your answer is 7f but the correct answer is 34
+# index:  6
+# 
+# FIFO2: Error at   3th, your answer is 7f but the correct answer is 33
+# index:  7
+# 
+# FIFO2: Error at   4th, your answer is 7f but the correct answer is 32
+# index:  8
+# 
+# FIFO2: Error at   5th, your answer is 7f but the correct answer is 37
+# index:  9
+# 
+# FIFO2: Error at   6th, your answer is 7f but the correct answer is 39
+# index: 10
+# 
+# FIFO2: Error at   7th, your answer is 7f but the correct answer is 38
+# index: 11
+# 
+# FIFO2: Error at   8th, your answer is 7f but the correct answer is 34
+# index: 12
+# 
+# FIFO2: Error at   9th, your answer is 7f but the correct answer is 31
+# index: 13
+# 
+# 
+# 
+# !!! Failed pulling down valid_fifo2 signal, Simulation STOP !!!
+# 
+# 
+# ** Note: $finish    : C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv(208)
+#    Time: 645 ns  Iteration: 1  Instance: /textfixture
+# 1
+# Break in Module textfixture at C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv line 208
+# Compile of CIPU.v was successful.
+vsim -gui work.textfixture
+# End time: 16:44:23 on Apr 29,2024, Elapsed time: 0:02:09
+# Errors: 0, Warnings: 2
+# vsim -gui work.textfixture 
+# Start time: 16:44:23 on Apr 29,2024
+# Loading sv_std.std
+# Loading work.textfixture
+# Loading work.CIPU
+run -all
+# **************************************************
+# ***********      Simulation Start      ***********
+# **************************************************
+# session:  
+# 
+# session:  
+# 
+# session:  
+# 
+# session:  
+# 
+# session:  3
+# 
+# session:  9
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# index:  2
+# 
+# index:  3
+# 
+# FIFO2: Error at   0th, your answer is 3b but the correct answer is 39
+# index:  4
+# 
+# FIFO2: Error at   1th, your answer is 7f but the correct answer is 34
+# index:  5
+# 
+# FIFO2: Error at   2th, your answer is 7f but the correct answer is 34
+# index:  6
+# 
+# FIFO2: Error at   3th, your answer is 7f but the correct answer is 33
+# index:  7
+# 
+# FIFO2: Error at   4th, your answer is 7f but the correct answer is 32
+# index:  8
+# 
+# FIFO2: Error at   5th, your answer is 7f but the correct answer is 37
+# index:  9
+# 
+# FIFO2: Error at   6th, your answer is 7f but the correct answer is 39
+# index: 10
+# 
+# FIFO2: Error at   7th, your answer is 7f but the correct answer is 38
+# index: 11
+# 
+# FIFO2: Error at   8th, your answer is 7f but the correct answer is 34
+# index: 12
+# 
+# FIFO2: Error at   9th, your answer is 7f but the correct answer is 31
+# index: 13
+# 
+# 
+# 
+# !!! Failed pulling down valid_fifo2 signal, Simulation STOP !!!
+# 
+# 
+# ** Note: $finish    : C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv(208)
+#    Time: 645 ns  Iteration: 1  Instance: /textfixture
+# 1
+# Break in Module textfixture at C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv line 208
+restart
+add wave -position insertpoint sim:/textfixture/*
+run
+# **************************************************
+# ***********      Simulation Start      ***********
+# **************************************************
+# session:  
+# 
+# session:  
+# 
+# session:  
+# 
+# session:  
+# 
+# session:  3
+# 
+# session:  9
+# 
+# session:  ;
+# 
+# session:  ;
+# 
+# Compile of CIPU.v was successful.
+vsim -gui work.textfixture
+# End time: 18:36:38 on Apr 29,2024, Elapsed time: 1:52:15
+# Errors: 0, Warnings: 2
+# vsim -gui work.textfixture 
+# Start time: 18:36:38 on Apr 29,2024
+# Loading sv_std.std
+# Loading work.textfixture
+# Loading work.CIPU
+run -all
+# **************************************************
+# ***********      Simulation Start      ***********
+# **************************************************
+# session:  
+# 
+# session:  
+# 
+# session:  
+# 
+# session:  
+# 
+# session:  3
+# 
+# session:  9
+# 
+# session:  ;
+# 
+# pop num:  0
+# 
+# LIFO: Error at   0th, your answer is 3b but the correct answer is 39
+# session:  ;
+# 
+# pop num:  1
+# 
+# pop num:  2
+# 
+# LIFO: Error at   1th, your answer is 3b but the correct answer is 34
+# pop num:  3
+# 
+# LIFO: Error at   2th, your answer is 33 but the correct answer is 34
+# pop num:  4
+# 
+# LIFO: Error at   3th, your answer is xx but the correct answer is 33
+# pop num:  5
+# 
+# LIFO: Error at   4th, your answer is xx but the correct answer is 32
+# pop num:  6
+# 
+# LIFO: Error at   5th, your answer is xx but the correct answer is 37
+# pop num:  7
+# 
+# LIFO: Error at   6th, your answer is xx but the correct answer is 39
+# pop num:  8
+# 
+# LIFO: Error at   7th, your answer is xx but the correct answer is 38
+# pop num:  9
+# 
+# LIFO: Error at   8th, your answer is xx but the correct answer is 34
+# pop num: 10
+# 
+# LIFO: Error at   9th, your answer is xx but the correct answer is 31
+# pop num: 11
+# 
+# LIFO: Error at  10th, your answer is xx but the correct answer is 38
+# pop num: 12
+# 
+# LIFO: Error at  11th, your answer is xx but the correct answer is 31
+# pop num: 13
+# 
+# LIFO: Error at  12th, your answer is xx but the correct answer is 36
+# pop num: 14
+# 
+# LIFO: Error at  13th, your answer is xx but the correct answer is 34
+# pop num: 15
+# 
+# LIFO: Error at  14th, your answer is xx but the correct answer is 38
+# pop num: 16
+# 
+# LIFO: Error at  15th, your answer is xx but the correct answer is 30
+# pop num: 17
+# 
+# LIFO: Error at  16th, your answer is xx but the correct answer is 30
+# pop num: 18
+# 
+# LIFO: Error at  17th, your answer is xx but the correct answer is 34
+# pop num: 19
+# 
+# LIFO: Error at  18th, your answer is xx but the correct answer is 36
+# pop num: 20
+# 
+# LIFO: Error at  19th, your answer is 7f but the correct answer is 39
+# pop num: 21
+# 
+# LIFO: Error at  20th, your answer is 7f but the correct answer is 30
+# pop num: 22
+# 
+# LIFO: Error at  21th, your answer is 7f but the correct answer is 30
+# pop num: 23
+# 
+# LIFO: Error at  22th, your answer is 7f but the correct answer is 33
+# pop num: 24
+# 
+# LIFO: Error at  23th, your answer is 7f but the correct answer is 33
+# pop num: 25
+# 
+# LIFO: Error at  24th, your answer is 7f but the correct answer is 30
+# pop num: 26
+# 
+# 
+# 
+# !!! Failed pulling down valid_lifo signal, Simulation STOP !!!
+# 
+# 
+# ** Note: $finish    : C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv(184)
+#    Time: 375 ns  Iteration: 1  Instance: /textfixture
+# 1
+# Break in Module textfixture at C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv line 184
+# Compile of CIPU.v was successful.
+vsim -gui work.textfixture
+# End time: 18:42:19 on Apr 29,2024, Elapsed time: 0:05:41
+# Errors: 0, Warnings: 2
+# vsim -gui work.textfixture 
+# Start time: 18:42:19 on Apr 29,2024
+# Loading sv_std.std
+# Loading work.textfixture
+# Loading work.CIPU
+run -all
+# **************************************************
+# ***********      Simulation Start      ***********
+# **************************************************
+# session:  
+# 
+# session:  
+# 
+# session:  
+# 
+# session:  
+# 
+# session:  3
+# 
+# session:  9
+# 
+# session:  ;
+# 
+# pop num:  0
+# 
+# LIFO: Error at   0th, your answer is 3b but the correct answer is 39
+# session:  ;
+# 
+# pop num:  0
+# 
+# LIFO: Error at   1th, your answer is 3b but the correct answer is 34
+# session:  ;
+# 
+# pop num:  0
+# 
+# pop num:  1
+# 
+# LIFO: Error at   2th, your answer is 3b but the correct answer is 34
+# pop num:  2
+# 
+# LIFO: Error at   3th, your answer is xx but the correct answer is 33
+# LIFO: Error at   4th, your answer is xx but the correct answer is 32
+# session:  ;
+# 
+# pop num:  0
+# 
+# LIFO: Error at   5th, your answer is xx but the correct answer is 37
+# session:  ;
+# 
+# pop num:  0
+# 
+# LIFO: Error at   6th, your answer is xx but the correct answer is 39
+# session:  1
+# 
+# session:  9
+# 
+# session:  ;
+# 
+# pop num:  0
+# 
+# LIFO: Error at   7th, your answer is xx but the correct answer is 38
+# session:  ;
+# 
+# pop num:  0
+# 
+# pop num:  1
+# 
+# LIFO: Error at   8th, your answer is xx but the correct answer is 34
+# pop num:  2
+# 
+# LIFO: Error at   9th, your answer is xx but the correct answer is 31
+# pop num:  3
+# 
+# LIFO: Error at  10th, your answer is xx but the correct answer is 38
+# LIFO: Error at  11th, your answer is xx but the correct answer is 31
+# session:  ;
+# 
+# pop num:  0
+# 
+# pop num:  1
+# 
+# LIFO: Error at  12th, your answer is xx but the correct answer is 36
+# pop num:  2
+# 
+# LIFO: Error at  13th, your answer is xx but the correct answer is 34
+# LIFO: Error at  14th, your answer is xx but the correct answer is 38
+# session:  ;
+# 
+# pop num:  0
+# 
+# LIFO: Error at  15th, your answer is xx but the correct answer is 30
+# session:  ;
+# 
+# pop num:  0
+# 
+# LIFO: Error at  16th, your answer is xx but the correct answer is 30
+# session:  ;
+# 
+# pop num:  0
+# 
+# LIFO: Error at  17th, your answer is xx but the correct answer is 34
+# session:  ;
+# 
+# pop num:  0
+# 
+# pop num:  1
+# 
+# LIFO: Error at  18th, your answer is xx but the correct answer is 36
+# pop num:  2
+# 
+# LIFO: Error at  19th, your answer is xx but the correct answer is 39
+# LIFO: Error at  20th, your answer is xx but the correct answer is 30
+# session:  ;
+# 
+# pop num:  0
+# 
+# LIFO: Error at  21th, your answer is 3b but the correct answer is 30
+# session:  ;
+# 
+# pop num:  0
+# 
+# LIFO: Error at  22th, your answer is 3b but the correct answer is 33
+# session:  ;
+# 
+# pop num:  0
+# 
+# pop num:  1
+# 
+# LIFO: Error at  23th, your answer is 3b but the correct answer is 33
+# LIFO: Error at  24th, your answer is 7f but the correct answer is 30
+# session:  ;
+# 
+# pop num:  0
+# 
+# 
+# 
+# !!! Failed pulling down valid_lifo signal, Simulation STOP !!!
+# 
+# 
+# ** Note: $finish    : C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv(184)
+#    Time: 675 ns  Iteration: 1  Instance: /textfixture
+# 1
+# Break in Module textfixture at C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv line 184
+# Compile of CIPU.v was successful.
+vsim -gui work.textfixture
+# End time: 18:44:30 on Apr 29,2024, Elapsed time: 0:02:11
+# Errors: 0, Warnings: 2
+# vsim -gui work.textfixture 
+# Start time: 18:44:30 on Apr 29,2024
+# Loading sv_std.std
+# Loading work.textfixture
+# Loading work.CIPU
+run -all
+# **************************************************
+# ***********      Simulation Start      ***********
+# **************************************************
+# session:  
+# 
+# session:  
+# 
+# session:  
+# 
+# session:  
+# 
+# session:  3
+# 
+# session:  9
+# 
+# session:  ;
+# 
+# pop num:  1
+# 
+# LIFO: Error at   0th, your answer is 3b but the correct answer is 39
+# session:  ;
+# 
+# pop num:  1
+# 
+# LIFO: Error at   1th, your answer is 3b but the correct answer is 34
+# session:  ;
+# 
+# pop num:  1
+# 
+# LIFO: Error at   2th, your answer is 3b but the correct answer is 34
+# session:  3
+# 
+# session:  4
+# 
+# session:  ;
+# 
+# pop num:  3
+# 
+# pop num:  2
+# 
+# LIFO: Error at   3th, your answer is 3b but the correct answer is 33
+# pop num:  1
+# 
+# LIFO: Error at   4th, your answer is 34 but the correct answer is 32
+# LIFO: Error at   5th, your answer is xx but the correct answer is 37
+# session:  ;
+# 
+# pop num:  3
+# 
+# pop num:  2
+# 
+# LIFO: Error at   6th, your answer is xx but the correct answer is 39
+# pop num:  1
+# 
+# LIFO: Error at   7th, your answer is xx but the correct answer is 38
+# LIFO: Error at   8th, your answer is xx but the correct answer is 34
+# session:  ;
+# 
+# pop num:  1
+# 
+# LIFO: Error at   9th, your answer is xx but the correct answer is 31
+# session:  1
+# 
+# session:  9
+# 
+# session:  ;
+# 
+# pop num:  1
+# 
+# LIFO: Error at  10th, your answer is xx but the correct answer is 38
+# session:  ;
+# 
+# pop num:  1
+# 
+# LIFO: Error at  11th, your answer is xx but the correct answer is 31
+# session:  4
+# 
+# session:  8
+# 
+# session:  ;
+# 
+# pop num:  4
+# 
+# pop num:  3
+# 
+# LIFO: Error at  12th, your answer is xx but the correct answer is 36
+# pop num:  2
+# 
+# LIFO: Error at  13th, your answer is xx but the correct answer is 34
+# pop num:  1
+# 
+# LIFO: Error at  14th, your answer is xx but the correct answer is 38
+# LIFO: Error at  15th, your answer is xx but the correct answer is 30
+# session:  ;
+# 
+# pop num:  4
+# 
+# pop num:  3
+# 
+# LIFO: Error at  16th, your answer is xx but the correct answer is 30
+# pop num:  2
+# 
+# LIFO: Error at  17th, your answer is xx but the correct answer is 34
+# pop num:  1
+# 
+# LIFO: Error at  18th, your answer is xx but the correct answer is 36
+# LIFO: Error at  19th, your answer is xx but the correct answer is 39
+# session:  ;
+# 
+# pop num:  3
+# 
+# pop num:  2
+# 
+# LIFO: Error at  20th, your answer is xx but the correct answer is 30
+# pop num:  1
+# 
+# LIFO: Error at  21th, your answer is xx but the correct answer is 30
+# LIFO: Error at  22th, your answer is xx but the correct answer is 33
+# session:  ;
+# 
+# pop num:  1
+# 
+# LIFO: Error at  23th, your answer is xx but the correct answer is 33
+# session:  ;
+# 
+# pop num:  0
+# 
+# LIFO: Error at  24th, your answer is xx but the correct answer is 30
+# session:  ;
+# 
+# pop num:  0
+# 
+# 
+# 
+# !!! Failed pulling down valid_lifo signal, Simulation STOP !!!
+# 
+# 
+# ** Note: $finish    : C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv(184)
+#    Time: 675 ns  Iteration: 1  Instance: /textfixture
+# 1
+# Break in Module textfixture at C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv line 184
+run -continue
+# session:  4
+# 
+# session:  ;
+# 
+# 
+# 
+# There are total   0 errors in FIFO  !!
+# pop num:  0
+# 
+# 
+# 
+# !!! Failed pulling down valid_lifo signal, Simulation STOP !!!
+# 
+# 
+# ** Note: $finish    : C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv(184)
+#    Time: 715 ns  Iteration: 1  Instance: /textfixture
+# 1
+# Break in Module textfixture at C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv line 184
+# Compile of CIPU.v was successful.
+vsim -gui work.textfixture
+# End time: 18:46:13 on Apr 29,2024, Elapsed time: 0:01:43
+# Errors: 0, Warnings: 2
+# vsim -gui work.textfixture 
+# Start time: 18:46:13 on Apr 29,2024
+# Loading sv_std.std
+# Loading work.textfixture
+# Loading work.CIPU
+run -all
+# **************************************************
+# ***********      Simulation Start      ***********
+# **************************************************
+# session:  
+# 
+# session:  
+# 
+# session:  
+# 
+# session:  
+# 
+# session:  3
+# 
+# session:  9
+# 
+# session:  ;
+# 
+# pop num:  1
+# 
+# session:  ;
+# 
+# pop num:  1
+# 
+# LIFO: Error at   1th, your answer is 33 but the correct answer is 34
+# session:  ;
+# 
+# pop num:  1
+# 
+# LIFO: Error at   2th, your answer is xx but the correct answer is 34
+# session:  3
+# 
+# session:  4
+# 
+# session:  ;
+# 
+# pop num:  3
+# 
+# pop num:  2
+# 
+# LIFO: Error at   3th, your answer is 34 but the correct answer is 33
+# pop num:  1
+# 
+# LIFO: Error at   4th, your answer is xx but the correct answer is 32
+# LIFO: Error at   5th, your answer is xx but the correct answer is 37
+# session:  ;
+# 
+# pop num:  3
+# 
+# pop num:  2
+# 
+# LIFO: Error at   6th, your answer is xx but the correct answer is 39
+# pop num:  1
+# 
+# LIFO: Error at   7th, your answer is xx but the correct answer is 38
+# LIFO: Error at   8th, your answer is xx but the correct answer is 34
+# session:  ;
+# 
+# pop num:  1
+# 
+# LIFO: Error at   9th, your answer is xx but the correct answer is 31
+# session:  1
+# 
+# session:  9
+# 
+# session:  ;
+# 
+# pop num:  1
+# 
+# LIFO: Error at  10th, your answer is xx but the correct answer is 38
+# session:  ;
+# 
+# pop num:  1
+# 
+# LIFO: Error at  11th, your answer is xx but the correct answer is 31
+# session:  4
+# 
+# session:  8
+# 
+# session:  ;
+# 
+# pop num:  4
+# 
+# pop num:  3
+# 
+# LIFO: Error at  12th, your answer is xx but the correct answer is 36
+# pop num:  2
+# 
+# LIFO: Error at  13th, your answer is xx but the correct answer is 34
+# pop num:  1
+# 
+# LIFO: Error at  14th, your answer is xx but the correct answer is 38
+# LIFO: Error at  15th, your answer is xx but the correct answer is 30
+# session:  ;
+# 
+# pop num:  4
+# 
+# pop num:  3
+# 
+# LIFO: Error at  16th, your answer is xx but the correct answer is 30
+# pop num:  2
+# 
+# LIFO: Error at  17th, your answer is xx but the correct answer is 34
+# pop num:  1
+# 
+# LIFO: Error at  18th, your answer is xx but the correct answer is 36
+# LIFO: Error at  19th, your answer is xx but the correct answer is 39
+# session:  ;
+# 
+# pop num:  3
+# 
+# pop num:  2
+# 
+# LIFO: Error at  20th, your answer is xx but the correct answer is 30
+# pop num:  1
+# 
+# LIFO: Error at  21th, your answer is xx but the correct answer is 30
+# LIFO: Error at  22th, your answer is xx but the correct answer is 33
+# session:  ;
+# 
+# pop num:  1
+# 
+# LIFO: Error at  23th, your answer is xx but the correct answer is 33
+# session:  ;
+# 
+# pop num:  0
+# 
+# LIFO: Error at  24th, your answer is 7f but the correct answer is 30
+# session:  ;
+# 
+# pop num:  0
+# 
+# 
+# 
+# !!! Failed pulling down valid_lifo signal, Simulation STOP !!!
+# 
+# 
+# ** Note: $finish    : C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv(184)
+#    Time: 675 ns  Iteration: 1  Instance: /textfixture
+# 1
+# Break in Module textfixture at C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv line 184
+# Compile of CIPU.v was successful.
+vsim -gui work.textfixture
+# End time: 18:48:13 on Apr 29,2024, Elapsed time: 0:02:00
+# Errors: 0, Warnings: 2
+# vsim -gui work.textfixture 
+# Start time: 18:48:13 on Apr 29,2024
+# Loading sv_std.std
+# Loading work.textfixture
+# Loading work.CIPU
+restart
+run -all
+# **************************************************
+# ***********      Simulation Start      ***********
+# **************************************************
+# session:  
+# 
+# session:  
+# 
+# session:  
+# 
+# session:  
+# 
+# session:  3
+# 
+# session:  9
+# 
+# session:  ;
+# 
+# pop num:  1
+# 
+# session:  ;
+# 
+# pop num:  1
+# 
+# pop num:  1
+# 
+# LIFO: Error at   1th, your answer is 33 but the correct answer is 34
+# pop num:  1
+# 
+# LIFO: Error at   2th, your answer is xx but the correct answer is 34
+# pop num:  1
+# 
+# LIFO: Error at   3th, your answer is xx but the correct answer is 33
+# pop num:  1
+# 
+# LIFO: Error at   4th, your answer is xx but the correct answer is 32
+# pop num:  1
+# 
+# LIFO: Error at   5th, your answer is xx but the correct answer is 37
+# pop num:  1
+# 
+# LIFO: Error at   6th, your answer is xx but the correct answer is 39
+# pop num:  1
+# 
+# LIFO: Error at   7th, your answer is xx but the correct answer is 38
+# pop num:  1
+# 
+# LIFO: Error at   8th, your answer is xx but the correct answer is 34
+# pop num:  1
+# 
+# LIFO: Error at   9th, your answer is xx but the correct answer is 31
+# pop num:  1
+# 
+# LIFO: Error at  10th, your answer is xx but the correct answer is 38
+# pop num:  1
+# 
+# LIFO: Error at  11th, your answer is xx but the correct answer is 31
+# pop num:  1
+# 
+# LIFO: Error at  12th, your answer is xx but the correct answer is 36
+# pop num:  1
+# 
+# LIFO: Error at  13th, your answer is xx but the correct answer is 34
+# pop num:  1
+# 
+# LIFO: Error at  14th, your answer is xx but the correct answer is 38
+# pop num:  1
+# 
+# LIFO: Error at  15th, your answer is xx but the correct answer is 30
+# pop num:  1
+# 
+# LIFO: Error at  16th, your answer is xx but the correct answer is 30
+# pop num:  1
+# 
+# LIFO: Error at  17th, your answer is xx but the correct answer is 34
+# pop num:  1
+# 
+# LIFO: Error at  18th, your answer is 7f but the correct answer is 36
+# pop num:  1
+# 
+# LIFO: Error at  19th, your answer is 7f but the correct answer is 39
+# pop num:  1
+# 
+# LIFO: Error at  20th, your answer is 7f but the correct answer is 30
+# pop num:  1
+# 
+# LIFO: Error at  21th, your answer is 7f but the correct answer is 30
+# pop num:  1
+# 
+# LIFO: Error at  22th, your answer is 7f but the correct answer is 33
+# pop num:  1
+# 
+# LIFO: Error at  23th, your answer is 7f but the correct answer is 33
+# pop num:  1
+# 
+# LIFO: Error at  24th, your answer is 7f but the correct answer is 30
+# pop num:  1
+# 
+# 
+# 
+# !!! Failed pulling down valid_lifo signal, Simulation STOP !!!
+# 
+# 
+# ** Note: $finish    : C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv(184)
+#    Time: 375 ns  Iteration: 1  Instance: /textfixture
+# 1
+# Break in Module textfixture at C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv line 184
+# Compile of CIPU.v was successful.
+vsim -gui work.textfixture
+# End time: 18:49:15 on Apr 29,2024, Elapsed time: 0:01:02
+# Errors: 0, Warnings: 2
+# vsim -gui work.textfixture 
+# Start time: 18:49:15 on Apr 29,2024
+# Loading sv_std.std
+# Loading work.textfixture
+# Loading work.CIPU
+run -all
+# **************************************************
+# ***********      Simulation Start      ***********
+# **************************************************
+# session:  
+# 
+# session:  
+# 
+# session:  
+# 
+# session:  
+# 
+# session:  3
+# 
+# session:  9
+# 
+# session:  ;
+# 
+# pop num:  1
+# 
+# session:  ;
+# 
+# pop num:  1
+# 
+# LIFO: Error at   1th, your answer is 33 but the correct answer is 34
+# session:  ;
+# 
+# pop num:  3
+# 
+# pop num:  3
+# 
+# LIFO: Error at   2th, your answer is xx but the correct answer is 34
+# pop num:  3
+# 
+# LIFO: Error at   3th, your answer is xx but the correct answer is 33
+# LIFO: Error at   4th, your answer is xx but the correct answer is 32
+# session:  ;
+# 
+# pop num:  1
+# 
+# LIFO: Error at   5th, your answer is xx but the correct answer is 37
+# session:  ;
+# 
+# pop num:  1
+# 
+# LIFO: Error at   6th, your answer is xx but the correct answer is 39
+# session:  1
+# 
+# session:  9
+# 
+# session:  ;
+# 
+# pop num:  1
+# 
+# LIFO: Error at   7th, your answer is xx but the correct answer is 38
+# session:  ;
+# 
+# pop num:  4
+# 
+# pop num:  4
+# 
+# LIFO: Error at   8th, your answer is xx but the correct answer is 34
+# pop num:  4
+# 
+# LIFO: Error at   9th, your answer is xx but the correct answer is 31
+# pop num:  4
+# 
+# LIFO: Error at  10th, your answer is xx but the correct answer is 38
+# LIFO: Error at  11th, your answer is xx but the correct answer is 31
+# session:  ;
+# 
+# pop num:  3
+# 
+# pop num:  3
+# 
+# LIFO: Error at  12th, your answer is xx but the correct answer is 36
+# pop num:  3
+# 
+# LIFO: Error at  13th, your answer is xx but the correct answer is 34
+# LIFO: Error at  14th, your answer is xx but the correct answer is 38
+# session:  ;
+# 
+# pop num:  1
+# 
+# LIFO: Error at  15th, your answer is xx but the correct answer is 30
+# session:  ;
+# 
+# pop num:  0
+# 
+# LIFO: Error at  16th, your answer is xx but the correct answer is 30
+# session:  ;
+# 
+# pop num:  0
+# 
+# LIFO: Error at  17th, your answer is xx but the correct answer is 34
+# session:  ;
+# 
+# pop num:  3
+# 
+# pop num:  3
+# 
+# LIFO: Error at  18th, your answer is xx but the correct answer is 36
+# pop num:  3
+# 
+# LIFO: Error at  19th, your answer is xx but the correct answer is 39
+# LIFO: Error at  20th, your answer is 7f but the correct answer is 30
+# session:  ;
+# 
+# pop num:  0
+# 
+# LIFO: Error at  21th, your answer is 7f but the correct answer is 30
+# session:  ;
+# 
+# pop num:  0
+# 
+# LIFO: Error at  22th, your answer is 7f but the correct answer is 33
+# session:  ;
+# 
+# pop num:  2
+# 
+# pop num:  2
+# 
+# LIFO: Error at  23th, your answer is 7f but the correct answer is 33
+# LIFO: Error at  24th, your answer is 7f but the correct answer is 30
+# session:  ;
+# 
+# pop num:  0
+# 
+# 
+# 
+# !!! Failed pulling down valid_lifo signal, Simulation STOP !!!
+# 
+# 
+# ** Note: $finish    : C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv(184)
+#    Time: 675 ns  Iteration: 1  Instance: /textfixture
+# 1
+# Break in Module textfixture at C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv line 184
+# Compile of CIPU.v was successful.
+vsim -gui work.textfixture
+# End time: 19:20:15 on Apr 29,2024, Elapsed time: 0:31:00
+# Errors: 0, Warnings: 2
+# vsim -gui work.textfixture 
+# Start time: 19:20:15 on Apr 29,2024
+# Loading sv_std.std
+# Loading work.textfixture
+# Loading work.CIPU
+run -all
+# **************************************************
+# ***********      Simulation Start      ***********
+# **************************************************
+# session:  
+# 
+# session:  
+# 
+# session:  
+# 
+# session:  
+# 
+# session:  3
+# 
+# session:  9
+# 
+# session:  ;
+# 
+# pop num:  1
+# 
+# LIFO: Error at   0th, your answer is 3b but the correct answer is 39
+# session:  ;
+# 
+# pop num:  1
+# 
+# LIFO: Error at   1th, your answer is 3b but the correct answer is 34
+# session:  ;
+# 
+# pop num:  3
+# 
+# pop num:  3
+# 
+# LIFO: Error at   2th, your answer is 3b but the correct answer is 34
+# pop num:  3
+# 
+# LIFO: Error at   3th, your answer is xx but the correct answer is 33
+# LIFO: Error at   4th, your answer is xx but the correct answer is 32
+# session:  ;
+# 
+# pop num:  1
+# 
+# LIFO: Error at   5th, your answer is xx but the correct answer is 37
+# session:  ;
+# 
+# pop num:  1
+# 
+# LIFO: Error at   6th, your answer is xx but the correct answer is 39
+# session:  1
+# 
+# session:  9
+# 
+# session:  ;
+# 
+# pop num:  1
+# 
+# LIFO: Error at   7th, your answer is xx but the correct answer is 38
+# session:  ;
+# 
+# pop num:  4
+# 
+# pop num:  4
+# 
+# LIFO: Error at   8th, your answer is xx but the correct answer is 34
+# pop num:  4
+# 
+# LIFO: Error at   9th, your answer is xx but the correct answer is 31
+# pop num:  4
+# 
+# LIFO: Error at  10th, your answer is xx but the correct answer is 38
+# LIFO: Error at  11th, your answer is xx but the correct answer is 31
+# session:  ;
+# 
+# pop num:  3
+# 
+# pop num:  3
+# 
+# LIFO: Error at  12th, your answer is xx but the correct answer is 36
+# pop num:  3
+# 
+# LIFO: Error at  13th, your answer is xx but the correct answer is 34
+# LIFO: Error at  14th, your answer is xx but the correct answer is 38
+# session:  ;
+# 
+# pop num:  1
+# 
+# LIFO: Error at  15th, your answer is xx but the correct answer is 30
+# session:  ;
+# 
+# pop num:  0
+# 
+# session:  ;
+# 
+# pop num:  0
+# 
+# LIFO: Error at  17th, your answer is 30 but the correct answer is 34
+# session:  ;
+# 
+# pop num:  3
+# 
+# pop num:  3
+# 
+# LIFO: Error at  18th, your answer is xx but the correct answer is 36
+# pop num:  3
+# 
+# LIFO: Error at  19th, your answer is xx but the correct answer is 39
+# LIFO: Error at  20th, your answer is xx but the correct answer is 30
+# session:  ;
+# 
+# pop num:  0
+# 
+# session:  ;
+# 
+# pop num:  0
+# 
+# LIFO: Error at  22th, your answer is 30 but the correct answer is 33
+# session:  ;
+# 
+# pop num:  2
+# 
+# pop num:  2
+# 
+# LIFO: Error at  23th, your answer is xx but the correct answer is 33
+# LIFO: Error at  24th, your answer is xx but the correct answer is 30
+# session:  ;
+# 
+# pop num:  0
+# 
+# 
+# 
+# !!! Failed pulling down valid_lifo signal, Simulation STOP !!!
+# 
+# 
+# ** Note: $finish    : C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv(184)
+#    Time: 675 ns  Iteration: 1  Instance: /textfixture
+# 1
+# Break in Module textfixture at C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv line 184
+add wave -position insertpoint sim:/textfixture/u_CIPU/*
+restart
+run
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# **************************************************
+# ***********      Simulation Start      ***********
+# **************************************************
+# session:  
+# 
+# session:  
+# 
+# session:  
+# 
+# session:  
+# 
+# session:  3
+# 
+# session:  9
+# 
+# session:  ;
+# 
+# pop num:  1
+# 
+# Compile of CIPU.v was successful.
+# Compile of tb.sv was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.textfixture
+# End time: 19:55:01 on Apr 29,2024, Elapsed time: 0:34:46
+# Errors: 0, Warnings: 2
+# vsim -gui work.textfixture 
+# Start time: 19:55:01 on Apr 29,2024
+# Loading sv_std.std
+# Loading work.textfixture
+# Loading work.CIPU
+run -all
+# **************************************************
+# ***********      Simulation Start      ***********
+# **************************************************
+# session:  
+# 
+# session:  
+# 
+# session:  
+# 
+# session:  
+# 
+# session:  3
+# 
+# session:  9
+# 
+# session:  ;
+# 
+# pop num:  1
+# 
+# LIFO: Error at   0th, your answer is 3b but the correct answer is 39
+# session:  ;
+# 
+# pop num:  1
+# 
+# LIFO: Error at   1th, your answer is 3b but the correct answer is 34
+# session:  ;
+# 
+# pop num:  3
+# 
+# pop num:  3
+# 
+# LIFO: Error at   2th, your answer is 3b but the correct answer is 34
+# pop num:  3
+# 
+# LIFO: Error at   3th, your answer is xx but the correct answer is 33
+# LIFO: Error at   4th, your answer is xx but the correct answer is 32
+# session:  ;
+# 
+# pop num:  1
+# 
+# LIFO: Error at   5th, your answer is xx but the correct answer is 37
+# session:  ;
+# 
+# pop num:  1
+# 
+# LIFO: Error at   6th, your answer is xx but the correct answer is 39
+# session:  1
+# 
+# session:  9
+# 
+# session:  ;
+# 
+# pop num:  1
+# 
+# LIFO: Error at   7th, your answer is xx but the correct answer is 38
+# session:  ;
+# 
+# pop num:  4
+# 
+# pop num:  4
+# 
+# LIFO: Error at   8th, your answer is xx but the correct answer is 34
+# pop num:  4
+# 
+# LIFO: Error at   9th, your answer is xx but the correct answer is 31
+# pop num:  4
+# 
+# LIFO: Error at  10th, your answer is xx but the correct answer is 38
+# LIFO: Error at  11th, your answer is xx but the correct answer is 31
+# session:  ;
+# 
+# pop num:  3
+# 
+# pop num:  3
+# 
+# LIFO: Error at  12th, your answer is xx but the correct answer is 36
+# pop num:  3
+# 
+# LIFO: Error at  13th, your answer is xx but the correct answer is 34
+# LIFO: Error at  14th, your answer is xx but the correct answer is 38
+# session:  ;
+# 
+# pop num:  1
+# 
+# LIFO: Error at  15th, your answer is xx but the correct answer is 30
+# session:  ;
+# 
+# pop num:  0
+# 
+# session:  ;
+# 
+# pop num:  0
+# 
+# LIFO: Error at  17th, your answer is 30 but the correct answer is 34
+# session:  ;
+# 
+# pop num:  3
+# 
+# pop num:  3
+# 
+# LIFO: Error at  18th, your answer is xx but the correct answer is 36
+# pop num:  3
+# 
+# LIFO: Error at  19th, your answer is xx but the correct answer is 39
+# LIFO: Error at  20th, your answer is xx but the correct answer is 30
+# session:  ;
+# 
+# pop num:  0
+# 
+# session:  ;
+# 
+# pop num:  0
+# 
+# LIFO: Error at  22th, your answer is 30 but the correct answer is 33
+# session:  ;
+# 
+# pop num:  2
+# 
+# pop num:  2
+# 
+# LIFO: Error at  23th, your answer is xx but the correct answer is 33
+# LIFO: Error at  24th, your answer is xx but the correct answer is 30
+# session:  ;
+# 
+# pop num:  0
+# 
+# 
+# 
+# !!! Failed pulling down valid_lifo signal, Simulation STOP !!!
+# 
+# 
+# ** Note: $finish    : C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv(184)
+#    Time: 675 ns  Iteration: 1  Instance: /textfixture
+# 1
+# Break in Module textfixture at C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv line 184
+restart
+add wave -position insertpoint sim:/textfixture/u_CIPU/*
+run
+# **************************************************
+# ***********      Simulation Start      ***********
+# **************************************************
+# session:  
+# 
+# session:  
+# 
+# session:  
+# 
+# session:  
+# 
+# session:  3
+# 
+# session:  9
+# 
+# session:  ;
+# 
+# pop num:  1
+# 
+run
+# LIFO: Error at   0th, your answer is 3b but the correct answer is 39
+# session:  ;
+# 
+# pop num:  1
+# 
+# LIFO: Error at   1th, your answer is 3b but the correct answer is 34
+# session:  ;
+# 
+# pop num:  3
+# 
+# pop num:  3
+# 
+# LIFO: Error at   2th, your answer is 3b but the correct answer is 34
+# pop num:  3
+# 
+# LIFO: Error at   3th, your answer is xx but the correct answer is 33
+# LIFO: Error at   4th, your answer is xx but the correct answer is 32
+# session:  ;
+# 
+# Compile of CIPU.v was successful.
+vsim -gui work.textfixture
+# End time: 20:00:18 on Apr 29,2024, Elapsed time: 0:05:17
+# Errors: 0, Warnings: 2
+# vsim -gui work.textfixture 
+# Start time: 20:00:18 on Apr 29,2024
+# Loading sv_std.std
+# Loading work.textfixture
+# Loading work.CIPU
+run -all
+# **************************************************
+# ***********      Simulation Start      ***********
+# **************************************************
+# session:  
+# 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# session:  
+# 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# session:  
+# 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# session:  
+# 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# session:  3
+# 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# session:  9
+# 
+# session:  3 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# session:  ;
+# 
+# session:  3 
+# session:  9 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  1
+# 
+# LIFO: Error at   0th, your answer is 3b but the correct answer is 39
+# session:  ;
+# 
+# session:  3 
+# session:  9 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  1
+# 
+# LIFO: Error at   1th, your answer is 3b but the correct answer is 34
+# session:  ;
+# 
+# session:  3 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  3
+# 
+# pop num:  3
+# 
+# LIFO: Error at   2th, your answer is 3b but the correct answer is 34
+# pop num:  3
+# 
+# LIFO: Error at   3th, your answer is xx but the correct answer is 33
+# LIFO: Error at   4th, your answer is xx but the correct answer is 32
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  1
+# 
+# LIFO: Error at   5th, your answer is xx but the correct answer is 37
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  1
+# 
+# LIFO: Error at   6th, your answer is xx but the correct answer is 39
+# session:  1
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# session:  9
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  1
+# 
+# LIFO: Error at   7th, your answer is xx but the correct answer is 38
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  4
+# 
+# pop num:  4
+# 
+# LIFO: Error at   8th, your answer is xx but the correct answer is 34
+# pop num:  4
+# 
+# LIFO: Error at   9th, your answer is xx but the correct answer is 31
+# pop num:  4
+# 
+# LIFO: Error at  10th, your answer is xx but the correct answer is 38
+# LIFO: Error at  11th, your answer is xx but the correct answer is 31
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  3
+# 
+# pop num:  3
+# 
+# LIFO: Error at  12th, your answer is xx but the correct answer is 36
+# pop num:  3
+# 
+# LIFO: Error at  13th, your answer is xx but the correct answer is 34
+# LIFO: Error at  14th, your answer is xx but the correct answer is 38
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  1
+# 
+# LIFO: Error at  15th, your answer is xx but the correct answer is 30
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  0
+# 
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  0
+# 
+# LIFO: Error at  17th, your answer is 30 but the correct answer is 34
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  3
+# 
+# pop num:  3
+# 
+# LIFO: Error at  18th, your answer is xx but the correct answer is 36
+# pop num:  3
+# 
+# LIFO: Error at  19th, your answer is xx but the correct answer is 39
+# LIFO: Error at  20th, your answer is xx but the correct answer is 30
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  0
+# 
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  0
+# 
+# LIFO: Error at  22th, your answer is 30 but the correct answer is 33
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  2
+# 
+# pop num:  2
+# 
+# LIFO: Error at  23th, your answer is xx but the correct answer is 33
+# LIFO: Error at  24th, your answer is xx but the correct answer is 30
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  0
+# 
+# 
+# 
+# !!! Failed pulling down valid_lifo signal, Simulation STOP !!!
+# 
+# 
+# ** Note: $finish    : C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv(184)
+#    Time: 675 ns  Iteration: 1  Instance: /textfixture
+# 1
+# Break in Module textfixture at C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv line 184
+# Compile of CIPU.v was successful.
+vsim -gui work.textfixture
+# End time: 20:02:49 on Apr 29,2024, Elapsed time: 0:02:31
+# Errors: 0, Warnings: 2
+# vsim -gui work.textfixture 
+# Start time: 20:02:50 on Apr 29,2024
+# Loading sv_std.std
+# Loading work.textfixture
+# Loading work.CIPU
+run -all
+# **************************************************
+# ***********      Simulation Start      ***********
+# **************************************************
+# session:  
+# 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# session:  
+# 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# session:  
+# 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# session:  
+# 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# session:  3
+# 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# session:  9
+# 
+# session:  3 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# session:  ;
+# 
+# session:  3 
+# session:  9 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  1
+# 
+# session:  ;
+# 
+# session:  3 
+# session:  9 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  1
+# 
+# LIFO: Error at   1th, your answer is 33 but the correct answer is 34
+# session:  ;
+# 
+# session:  3 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  3
+# 
+# pop num:  3
+# 
+# LIFO: Error at   2th, your answer is xx but the correct answer is 34
+# pop num:  3
+# 
+# LIFO: Error at   3th, your answer is xx but the correct answer is 33
+# LIFO: Error at   4th, your answer is xx but the correct answer is 32
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  1
+# 
+# LIFO: Error at   5th, your answer is xx but the correct answer is 37
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  1
+# 
+# LIFO: Error at   6th, your answer is xx but the correct answer is 39
+# session:  1
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# session:  9
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  1
+# 
+# LIFO: Error at   7th, your answer is xx but the correct answer is 38
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  4
+# 
+# pop num:  4
+# 
+# LIFO: Error at   8th, your answer is xx but the correct answer is 34
+# pop num:  4
+# 
+# LIFO: Error at   9th, your answer is xx but the correct answer is 31
+# pop num:  4
+# 
+# LIFO: Error at  10th, your answer is xx but the correct answer is 38
+# LIFO: Error at  11th, your answer is xx but the correct answer is 31
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  3
+# 
+# pop num:  3
+# 
+# LIFO: Error at  12th, your answer is xx but the correct answer is 36
+# pop num:  3
+# 
+# LIFO: Error at  13th, your answer is xx but the correct answer is 34
+# LIFO: Error at  14th, your answer is xx but the correct answer is 38
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  1
+# 
+# LIFO: Error at  15th, your answer is xx but the correct answer is 30
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  0
+# 
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  0
+# 
+# LIFO: Error at  17th, your answer is 30 but the correct answer is 34
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  3
+# 
+# pop num:  3
+# 
+# LIFO: Error at  18th, your answer is xx but the correct answer is 36
+# pop num:  3
+# 
+# LIFO: Error at  19th, your answer is xx but the correct answer is 39
+# LIFO: Error at  20th, your answer is xx but the correct answer is 30
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  0
+# 
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  0
+# 
+# LIFO: Error at  22th, your answer is 30 but the correct answer is 33
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  2
+# 
+# pop num:  2
+# 
+# LIFO: Error at  23th, your answer is xx but the correct answer is 33
+# LIFO: Error at  24th, your answer is 7f but the correct answer is 30
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  0
+# 
+# 
+# 
+# !!! Failed pulling down valid_lifo signal, Simulation STOP !!!
+# 
+# 
+# ** Note: $finish    : C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv(184)
+#    Time: 675 ns  Iteration: 1  Instance: /textfixture
+# 1
+# Break in Module textfixture at C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv line 184
+restart
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# **************************************************
+# ***********      Simulation Start      ***********
+# **************************************************
+# session:  
+# 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# session:  
+# 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# session:  
+# 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# session:  
+# 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# session:  3
+# 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# session:  9
+# 
+# session:  3 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# session:  ;
+# 
+# session:  3 
+# session:  9 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  1
+# 
+# session:  ;
+# 
+# session:  3 
+# session:  9 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  1
+# 
+# LIFO: Error at   1th, your answer is 33 but the correct answer is 34
+# session:  ;
+# 
+# session:  3 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  3
+# 
+# pop num:  3
+# 
+# LIFO: Error at   2th, your answer is xx but the correct answer is 34
+# pop num:  3
+# 
+# LIFO: Error at   3th, your answer is xx but the correct answer is 33
+# LIFO: Error at   4th, your answer is xx but the correct answer is 32
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  1
+# 
+# LIFO: Error at   5th, your answer is xx but the correct answer is 37
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  1
+# 
+# LIFO: Error at   6th, your answer is xx but the correct answer is 39
+# session:  1
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# session:  9
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  1
+# 
+# LIFO: Error at   7th, your answer is xx but the correct answer is 38
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  4
+# 
+# pop num:  4
+# 
+# LIFO: Error at   8th, your answer is xx but the correct answer is 34
+# pop num:  4
+# 
+# LIFO: Error at   9th, your answer is xx but the correct answer is 31
+# pop num:  4
+# 
+# LIFO: Error at  10th, your answer is xx but the correct answer is 38
+# LIFO: Error at  11th, your answer is xx but the correct answer is 31
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  3
+# 
+# pop num:  3
+# 
+# LIFO: Error at  12th, your answer is xx but the correct answer is 36
+# pop num:  3
+# 
+# LIFO: Error at  13th, your answer is xx but the correct answer is 34
+# LIFO: Error at  14th, your answer is xx but the correct answer is 38
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  1
+# 
+# LIFO: Error at  15th, your answer is xx but the correct answer is 30
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  0
+# 
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  0
+# 
+# LIFO: Error at  17th, your answer is 30 but the correct answer is 34
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  3
+# 
+# pop num:  3
+# 
+# LIFO: Error at  18th, your answer is xx but the correct answer is 36
+# pop num:  3
+# 
+# LIFO: Error at  19th, your answer is xx but the correct answer is 39
+# LIFO: Error at  20th, your answer is xx but the correct answer is 30
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  0
+# 
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  0
+# 
+# LIFO: Error at  22th, your answer is 30 but the correct answer is 33
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  2
+# 
+# pop num:  2
+# 
+# LIFO: Error at  23th, your answer is xx but the correct answer is 33
+# LIFO: Error at  24th, your answer is 7f but the correct answer is 30
+# session:  ;
+# 
+# session:  ; 
+# session:  ; 
+# session:  ; 
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# session:   
+# 
+# 
+# pop num:  0
+# 
+# 
+# 
+# !!! Failed pulling down valid_lifo signal, Simulation STOP !!!
+# 
+# 
+# ** Note: $finish    : C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv(184)
+#    Time: 675 ns  Iteration: 1  Instance: /textfixture
+# 1
+# Break in Module textfixture at C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv line 184
+# Compile of CIPU.v was successful.
+vsim -gui work.textfixture
+# End time: 20:06:47 on Apr 29,2024, Elapsed time: 0:03:57
+# Errors: 0, Warnings: 2
+# vsim -gui work.textfixture 
+# Start time: 20:06:47 on Apr 29,2024
+# Loading sv_std.std
+# Loading work.textfixture
+# Loading work.CIPU
+run -all
+# **************************************************
+# ***********      Simulation Start      ***********
+# **************************************************
+# session:  
+# 
+# thing: 
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+# 
+# 
+# session:  
+# 
+# thing: 
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+# 
+# 
+# session:  
+# 
+# thing: 
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+# 
+# 
+# session:  
+# 
+# thing: 
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+# 
+# 
+# session:  3
+# 
+# thing: 
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+# 
+# 
+# session:  9
+# 
+# thing: 
+# 3 
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+# 
+# 
+# session:  ;
+# 
+# thing: 
+# 3 
+# 9 
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+# 
+# 
+# pop num:  1
+# 
+# session:  ;
+# 
+# thing: 
+# 3 
+# 9 
+# ; 
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+# 
+# 
+# pop num:  1
+# 
+# LIFO: Error at   1th, your answer is 33 but the correct answer is 34
+# session:  ;
+# 
+# thing: 
+# 3 
+# ; 
+# ; 
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+# 
+# 
+# pop num:  3
+# 
+# pop num:  3
+# 
+# LIFO: Error at   2th, your answer is xx but the correct answer is 34
+# pop num:  3
+# 
+# LIFO: Error at   3th, your answer is xx but the correct answer is 33
+# LIFO: Error at   4th, your answer is xx but the correct answer is 32
+# session:  ;
+# 
+# thing: 
+# ; 
+# ; 
+# ; 
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+# 
+# 
+# pop num:  1
+# 
+# LIFO: Error at   5th, your answer is xx but the correct answer is 37
+# session:  ;
+# 
+# thing: 
+# ; 
+# ; 
+# ; 
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+# 
+# 
+# pop num:  1
+# 
+# LIFO: Error at   6th, your answer is xx but the correct answer is 39
+# session:  1
+# 
+# thing: 
+# ; 
+# ; 
+# ; 
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+# 
+# 
+# session:  9
+# 
+# thing: 
+# ; 
+# ; 
+# ; 
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+# 
+# 
+# session:  ;
+# 
+# thing: 
+# ; 
+# ; 
+# ; 
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+# 
+# 
+# pop num:  1
+# 
+# LIFO: Error at   7th, your answer is xx but the correct answer is 38
+# session:  ;
+# 
+# thing: 
+# ; 
+# ; 
+# ; 
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+# 
+# 
+# pop num:  4
+# 
+# pop num:  4
+# 
+# LIFO: Error at   8th, your answer is xx but the correct answer is 34
+# pop num:  4
+# 
+# LIFO: Error at   9th, your answer is xx but the correct answer is 31
+# pop num:  4
+# 
+# LIFO: Error at  10th, your answer is xx but the correct answer is 38
+# LIFO: Error at  11th, your answer is xx but the correct answer is 31
+# session:  ;
+# 
+# thing: 
+# ; 
+# ; 
+# ; 
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+# 
+# 
+# pop num:  3
+# 
+# pop num:  3
+# 
+# LIFO: Error at  12th, your answer is xx but the correct answer is 36
+# pop num:  3
+# 
+# LIFO: Error at  13th, your answer is xx but the correct answer is 34
+# LIFO: Error at  14th, your answer is xx but the correct answer is 38
+# session:  ;
+# 
+# thing: 
+# ; 
+# ; 
+# ; 
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+# 
+# 
+# pop num:  1
+# 
+# LIFO: Error at  15th, your answer is xx but the correct answer is 30
+# session:  ;
+# 
+# thing: 
+# ; 
+# ; 
+# ; 
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+# 
+# 
+# pop num:  0
+# 
+# session:  ;
+# 
+# thing: 
+# ; 
+# ; 
+# ; 
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+# 
+# 
+# pop num:  0
+# 
+# LIFO: Error at  17th, your answer is 30 but the correct answer is 34
+# session:  ;
+# 
+# thing: 
+# ; 
+# ; 
+# ; 
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+# 
+# 
+# pop num:  3
+# 
+# pop num:  3
+# 
+# LIFO: Error at  18th, your answer is xx but the correct answer is 36
+# pop num:  3
+# 
+# LIFO: Error at  19th, your answer is xx but the correct answer is 39
+# LIFO: Error at  20th, your answer is xx but the correct answer is 30
+# session:  ;
+# 
+# thing: 
+# ; 
+# ; 
+# ; 
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+# 
+# 
+# pop num:  0
+# 
+# session:  ;
+# 
+# thing: 
+# ; 
+# ; 
+# ; 
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+# 
+# 
+# pop num:  0
+# 
+# LIFO: Error at  22th, your answer is 30 but the correct answer is 33
+# session:  ;
+# 
+# thing: 
+# ; 
+# ; 
+# ; 
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+# 
+# 
+# pop num:  2
+# 
+# pop num:  2
+# 
+# LIFO: Error at  23th, your answer is xx but the correct answer is 33
+# LIFO: Error at  24th, your answer is 7f but the correct answer is 30
+# session:  ;
+# 
+# thing: 
+# ; 
+# ; 
+# ; 
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+# 
+# 
+# pop num:  0
+# 
+# 
+# 
+# !!! Failed pulling down valid_lifo signal, Simulation STOP !!!
+# 
+# 
+# ** Note: $finish    : C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv(184)
+#    Time: 675 ns  Iteration: 1  Instance: /textfixture
+# 1
+# Break in Module textfixture at C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv line 184
+# Compile of CIPU.v was successful.
+vsim -gui work.textfixture
+# End time: 20:09:56 on Apr 29,2024, Elapsed time: 0:03:09
+# Errors: 0, Warnings: 2
+# vsim -gui work.textfixture 
+# Start time: 20:09:56 on Apr 29,2024
+# Loading sv_std.std
+# Loading work.textfixture
+# Loading work.CIPU
+run -all
+# **************************************************
+# ***********      Simulation Start      ***********
+# **************************************************
+# session:  
+# thing: 
+#                 
+# session:  
+# thing: 
+#                 
+# session:  
+# thing: 
+#                 
+# session:  
+# thing: 
+#                 
+# session:  3
+# thing: 
+#                 
+# session:  9
+# thing: 
+# 3                
+# session:  ;
+# thing: 
+# 3 9               
+# pop num:  1
+# session:  ;
+# thing: 
+# 3 9 ;              
+# pop num:  1
+# LIFO: Error at   1th, your answer is 33 but the correct answer is 34
+# session:  ;
+# thing: 
+# 3 ; ;              
+# pop num:  3
+# pop num:  3
+# LIFO: Error at   2th, your answer is xx but the correct answer is 34
+# pop num:  3
+# LIFO: Error at   3th, your answer is xx but the correct answer is 33
+# LIFO: Error at   4th, your answer is xx but the correct answer is 32
+# session:  ;
+# thing: 
+# ; ; ;              
+# pop num:  1
+# LIFO: Error at   5th, your answer is xx but the correct answer is 37
+# session:  ;
+# thing: 
+# ; ; ;              
+# pop num:  1
+# LIFO: Error at   6th, your answer is xx but the correct answer is 39
+# session:  1
+# thing: 
+# ; ; ;              
+# session:  9
+# thing: 
+# ; ; ;              
+# session:  ;
+# thing: 
+# ; ; ;              
+# pop num:  1
+# LIFO: Error at   7th, your answer is xx but the correct answer is 38
+# session:  ;
+# thing: 
+# ; ; ;              
+# pop num:  4
+# pop num:  4
+# LIFO: Error at   8th, your answer is xx but the correct answer is 34
+# pop num:  4
+# LIFO: Error at   9th, your answer is xx but the correct answer is 31
+# pop num:  4
+# LIFO: Error at  10th, your answer is xx but the correct answer is 38
+# LIFO: Error at  11th, your answer is xx but the correct answer is 31
+# session:  ;
+# thing: 
+# ; ; ;              
+# pop num:  3
+# pop num:  3
+# LIFO: Error at  12th, your answer is xx but the correct answer is 36
+# pop num:  3
+# LIFO: Error at  13th, your answer is xx but the correct answer is 34
+# LIFO: Error at  14th, your answer is xx but the correct answer is 38
+# session:  ;
+# thing: 
+# ; ; ;              
+# pop num:  1
+# LIFO: Error at  15th, your answer is xx but the correct answer is 30
+# session:  ;
+# thing: 
+# ; ; ;              
+# pop num:  0
+# session:  ;
+# thing: 
+# ; ; ;              
+# pop num:  0
+# LIFO: Error at  17th, your answer is 30 but the correct answer is 34
+# session:  ;
+# thing: 
+# ; ; ;              
+# pop num:  3
+# pop num:  3
+# LIFO: Error at  18th, your answer is xx but the correct answer is 36
+# pop num:  3
+# LIFO: Error at  19th, your answer is xx but the correct answer is 39
+# LIFO: Error at  20th, your answer is xx but the correct answer is 30
+# session:  ;
+# thing: 
+# ; ; ;              
+# pop num:  0
+# session:  ;
+# thing: 
+# ; ; ;              
+# pop num:  0
+# LIFO: Error at  22th, your answer is 30 but the correct answer is 33
+# session:  ;
+# thing: 
+# ; ; ;              
+# pop num:  2
+# pop num:  2
+# LIFO: Error at  23th, your answer is xx but the correct answer is 33
+# LIFO: Error at  24th, your answer is 7f but the correct answer is 30
+# session:  ;
+# thing: 
+# ; ; ;              
+# pop num:  0
+# 
+# 
+# !!! Failed pulling down valid_lifo signal, Simulation STOP !!!
+# 
+# 
+# ** Note: $finish    : C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv(184)
+#    Time: 675 ns  Iteration: 1  Instance: /textfixture
+# 1
+# Break in Module textfixture at C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv line 184
+add wave -position insertpoint sim:/textfixture/u_CIPU/*
+restart
+run
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# **************************************************
+# ***********      Simulation Start      ***********
+# **************************************************
+# session:  
+# thing: 
+#                 
+# session:  
+# thing: 
+#                 
+# session:  
+# thing: 
+#                 
+# session:  
+# thing: 
+#                 
+# session:  3
+# thing: 
+#                 
+# session:  9
+# thing: 
+# 3                
+# session:  ;
+# thing: 
+# 3 9               
+# pop num:  1
+# session:  ;
+# thing: 
+# 3 9 ;              
+# pop num:  1
+# LIFO: Error at   1th, your answer is 33 but the correct answer is 34
+# session:  ;
+# thing: 
+# 3 ; ;              
+# pop num:  3
+# pop num:  3
+# LIFO: Error at   2th, your answer is xx but the correct answer is 34
+# pop num:  3
+# LIFO: Error at   3th, your answer is xx but the correct answer is 33
+# LIFO: Error at   4th, your answer is xx but the correct answer is 32
+# session:  ;
+# thing: 
+# ; ; ;              
+# pop num:  1
+# LIFO: Error at   5th, your answer is xx but the correct answer is 37
+# session:  ;
+# thing: 
+# ; ; ;              
+# pop num:  1
+# LIFO: Error at   6th, your answer is xx but the correct answer is 39
+# session:  1
+# thing: 
+# ; ; ;              
+# session:  9
+# thing: 
+# ; ; ;              
+# session:  ;
+# thing: 
+# ; ; ;              
+# pop num:  1
+# LIFO: Error at   7th, your answer is xx but the correct answer is 38
+# session:  ;
+# thing: 
+# ; ; ;              
+# pop num:  4
+# pop num:  4
+# LIFO: Error at   8th, your answer is xx but the correct answer is 34
+# pop num:  4
+# LIFO: Error at   9th, your answer is xx but the correct answer is 31
+# pop num:  4
+# LIFO: Error at  10th, your answer is xx but the correct answer is 38
+# LIFO: Error at  11th, your answer is xx but the correct answer is 31
+# session:  ;
+# thing: 
+# ; ; ;              
+# pop num:  3
+# pop num:  3
+# LIFO: Error at  12th, your answer is xx but the correct answer is 36
+# pop num:  3
+# LIFO: Error at  13th, your answer is xx but the correct answer is 34
+# LIFO: Error at  14th, your answer is xx but the correct answer is 38
+# session:  ;
+# thing: 
+# ; ; ;              
+# pop num:  1
+# LIFO: Error at  15th, your answer is xx but the correct answer is 30
+# session:  ;
+# thing: 
+# ; ; ;              
+# pop num:  0
+# session:  ;
+# thing: 
+# ; ; ;              
+# pop num:  0
+# LIFO: Error at  17th, your answer is 30 but the correct answer is 34
+# session:  ;
+# thing: 
+# ; ; ;              
+# pop num:  3
+# pop num:  3
+# LIFO: Error at  18th, your answer is xx but the correct answer is 36
+# pop num:  3
+# LIFO: Error at  19th, your answer is xx but the correct answer is 39
+# LIFO: Error at  20th, your answer is xx but the correct answer is 30
+# session:  ;
+# thing: 
+# ; ; ;              
+# pop num:  0
+# session:  ;
+# thing: 
+# ; ; ;              
+# pop num:  0
+# LIFO: Error at  22th, your answer is 30 but the correct answer is 33
+# session:  ;
+# thing: 
+# ; ; ;              
+# pop num:  2
+# pop num:  2
+# LIFO: Error at  23th, your answer is xx but the correct answer is 33
+# LIFO: Error at  24th, your answer is 7f but the correct answer is 30
+# session:  ;
+# thing: 
+# ; ; ;              
+# pop num:  0
+# 
+# 
+# !!! Failed pulling down valid_lifo signal, Simulation STOP !!!
+# 
+# 
+# ** Note: $finish    : C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv(184)
+#    Time: 675 ns  Iteration: 1  Instance: /textfixture
+# 1
+# Break in Module textfixture at C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv line 184
+# Compile of CIPU.v was successful.
+vsim -gui work.textfixture
+# End time: 20:23:03 on Apr 29,2024, Elapsed time: 0:13:07
+# Errors: 0, Warnings: 2
+# vsim -gui work.textfixture 
+# Start time: 20:23:03 on Apr 29,2024
+# Loading sv_std.std
+# Loading work.textfixture
+# Loading work.CIPU
+run
+# **************************************************
+# ***********      Simulation Start      ***********
+# **************************************************
+run
+# session:  
+# thing: 
+#                 
+run
+# session:  
+# thing: 
+#                 
+run
+# session:  
+# thing: 
+#                 
+run
+# session:  
+# thing: 
+#                 
+run
+run
+# session:  3
+# thing: 
+#                 
+run
+# session:  9
+# thing: 
+# 3                
+run
+# session:  ;
+# thing: 
+# 3 9               
+run
+# pop num:  1
+run
+run
+# session:  ;
+# thing: 
+# 3 9 ;              
+run
+# pop num:  1
+run
+# LIFO: Error at   1th, your answer is 33 but the correct answer is 34
+run
+# session:  ;
+# thing: 
+# 3 ; ;              
+run
+# pop num:  3
+run
+# pop num:  3
+# LIFO: Error at   2th, your answer is 3b but the correct answer is 34
+run
+# pop num:  3
+# LIFO: Error at   3th, your answer is 3b but the correct answer is 33
+run
+# LIFO: Error at   4th, your answer is 3b but the correct answer is 32
+run
+# session:  ;
+# thing: 
+# ; ; ;              
+run
+# pop num:  1
+run
+# LIFO: Error at   5th, your answer is 3b but the correct answer is 37
+run
+# session:  ;
+# thing: 
+# ; ; ;              
+run
+# pop num:  1
+run
+# LIFO: Error at   6th, your answer is 3b but the correct answer is 39
+run
+# session:  1
+# thing: 
+# ; ; ;              
+run
+# session:  9
+# thing: 
+# 1 ; ;              
+run
+# session:  ;
+# thing: 
+# 1 9 ;              
+run
+# pop num:  1
+run
+# LIFO: Error at   7th, your answer is 39 but the correct answer is 38
+# Compile of CIPU.v was successful.
+vsim -gui work.textfixture
+# End time: 20:24:49 on Apr 29,2024, Elapsed time: 0:01:46
+# Errors: 0, Warnings: 2
+# vsim -gui work.textfixture 
+# Start time: 20:24:49 on Apr 29,2024
+# Loading sv_std.std
+# Loading work.textfixture
+# Loading work.CIPU
+run
+# **************************************************
+# ***********      Simulation Start      ***********
+# **************************************************
+# thing_index:  x
+# thing_index:  x
+# session:  
+# thing: 
+#                 
+# thing_index:  x
+# session:  
+# thing: 
+#                 
+# thing_index:  x
+# session:  
+# thing: 
+#                 
+# thing_index:  x
+# session:  
+# thing: 
+#                 
+# thing_index:  0
+# session:  3
+# thing: 
+#                 
+# thing_index:  1
+# session:  9
+# thing: 
+# 3                
+# thing_index:  2
+# session:  ;
+# thing: 
+# 3 9               
+# thing_index:  2
+# pop num:  1
+run
+# thing_index:  1
+# thing_index:  1
+# session:  ;
+# thing: 
+# 3 9 ;              
+# thing_index:  1
+# pop num:  1
+# thing_index:  0
+# LIFO: Error at   1th, your answer is 33 but the correct answer is 34
+# thing_index:  0
+# session:  ;
+# thing: 
+# 3 ; ;              
+# thing_index:  0
+# pop num:  3
+# thing_index:  0
+# pop num:  3
+# LIFO: Error at   2th, your answer is 3b but the correct answer is 34
+# thing_index:  0
+# pop num:  3
+# LIFO: Error at   3th, your answer is 3b but the correct answer is 33
+# thing_index:  0
+# LIFO: Error at   4th, your answer is 3b but the correct answer is 32
+# thing_index:  0
+# session:  ;
+# thing: 
+# ; ; ;              
+add wave -position insertpoint sim:/textfixture/*
+restart
+run
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# **************************************************
+# ***********      Simulation Start      ***********
+# **************************************************
+# thing_index:  x
+# thing_index:  x
+# session:  
+# thing: 
+#                 
+# thing_index:  x
+# session:  
+# thing: 
+#                 
+# thing_index:  x
+# session:  
+# thing: 
+#                 
+# thing_index:  x
+# session:  
+# thing: 
+#                 
+# thing_index:  0
+# session:  3
+# thing: 
+#                 
+# thing_index:  1
+# session:  9
+# thing: 
+# 3                
+# thing_index:  2
+# session:  ;
+# thing: 
+# 3 9               
+# thing_index:  2
+# pop num:  1
+run
+# thing_index:  1
+# thing_index:  1
+# session:  ;
+# thing: 
+# 3 9 ;              
+# thing_index:  1
+# pop num:  1
+# thing_index:  0
+# LIFO: Error at   1th, your answer is 33 but the correct answer is 34
+# thing_index:  0
+# session:  ;
+# thing: 
+# 3 ; ;              
+# thing_index:  0
+# pop num:  3
+# thing_index:  0
+# pop num:  3
+# LIFO: Error at   2th, your answer is 3b but the correct answer is 34
+# thing_index:  0
+# pop num:  3
+# LIFO: Error at   3th, your answer is 3b but the correct answer is 33
+# thing_index:  0
+# LIFO: Error at   4th, your answer is 3b but the correct answer is 32
+# thing_index:  0
+# session:  ;
+# thing: 
+# ; ; ;              
+add wave -position insertpoint sim:/textfixture/*
+add wave -position insertpoint sim:/textfixture/*
+add wave -position insertpoint sim:/textfixture/u_CIPU/*
+run
+# thing_index:  0
+# pop num:  1
+# thing_index:  0
+# LIFO: Error at   5th, your answer is 3b but the correct answer is 37
+# thing_index:  0
+# session:  ;
+# thing: 
+# ; ; ;              
+# thing_index:  0
+# pop num:  1
+# thing_index:  0
+# LIFO: Error at   6th, your answer is 3b but the correct answer is 39
+# thing_index:  0
+# session:  1
+# thing: 
+# ; ; ;              
+# thing_index:  1
+# session:  9
+# thing: 
+# 1 ; ;              
+# thing_index:  2
+# session:  ;
+# thing: 
+# 1 9 ;              
+# thing_index:  2
+# pop num:  1
+# thing_index:  1
+# LIFO: Error at   7th, your answer is 39 but the correct answer is 38
+restart
+run
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# **************************************************
+# ***********      Simulation Start      ***********
+# **************************************************
+# thing_index:  x
+# thing_index:  x
+# session:  
+# thing: 
+#                 
+# thing_index:  x
+# session:  
+# thing: 
+#                 
+# thing_index:  x
+# session:  
+# thing: 
+#                 
+# thing_index:  x
+# session:  
+# thing: 
+#                 
+# thing_index:  0
+# session:  3
+# thing: 
+#                 
+# thing_index:  1
+# session:  9
+# thing: 
+# 3                
+# thing_index:  2
+# session:  ;
+# thing: 
+# 3 9               
+# thing_index:  2
+# pop num:  1
+run
+# thing_index:  1
+# thing_index:  1
+# session:  ;
+# thing: 
+# 3 9 ;              
+# thing_index:  1
+# pop num:  1
+# thing_index:  0
+# LIFO: Error at   1th, your answer is 33 but the correct answer is 34
+# thing_index:  0
+# session:  ;
+# thing: 
+# 3 ; ;              
+# thing_index:  0
+# pop num:  3
+# thing_index:  0
+# pop num:  3
+# LIFO: Error at   2th, your answer is 3b but the correct answer is 34
+# thing_index:  0
+# pop num:  3
+# LIFO: Error at   3th, your answer is 3b but the correct answer is 33
+# thing_index:  0
+# LIFO: Error at   4th, your answer is 3b but the correct answer is 32
+# thing_index:  0
+# session:  ;
+# thing: 
+# ; ; ;              
+# Compile of CIPU.v failed with 7 errors.
+# Compile of CIPU.v was successful.
+vsim -gui work.textfixture
+# End time: 20:43:30 on Apr 29,2024, Elapsed time: 0:18:41
+# Errors: 0, Warnings: 3
+# vsim -gui work.textfixture 
+# Start time: 20:43:30 on Apr 29,2024
+# Loading sv_std.std
+# Loading work.textfixture
+# Loading work.CIPU
+add wave -position insertpoint sim:/textfixture/u_CIPU/*
+run -all
+# **************************************************
+# ***********      Simulation Start      ***********
+# **************************************************
+# thing_index:  x
+# thing_index:  x
+# session:  
+# thing: 
+#                 
+# thing_index:  x
+# session:  
+# thing: 
+#                 
+# thing_index:  x
+# session:  
+# thing: 
+#                 
+# thing_index:  x
+# session:  
+# thing: 
+#                 
+# thing_index:  0
+# session:  3
+# thing: 
+#                 
+# thing_index:  1
+# session:  9
+# thing: 
+# 3                
+# thing_index:  2
+# session:  ;
+# thing: 
+# 3 9               
+# thing_index:  2
+# pop num:  1
+# thing_index:  1
+# thing_index:  1
+# thing_index:  1
+# session:  4
+# thing: 
+# 3 9 ;              
+# thing_index:  2
+# session:  7
+# thing: 
+# 3 4 ;              
+# thing_index:  3
+# session:  2
+# thing: 
+# 3 4 7              
+# thing_index:  4
+# session:  3
+# thing: 
+# 3 4 7 2             
+# thing_index:  5
+# session:  4
+# thing: 
+# 3 4 7 2 3            
+# thing_index:  6
+# session:  ;
+# thing: 
+# 3 4 7 2 3 4           
+# thing_index:  6
+# pop num:  3
+# thing_index:  5
+# pop num:  3
+# thing_index:  4
+# pop num:  3
+# LIFO: Error at   2th, your answer is 33 but the correct answer is 34
+# thing_index:  3
+# LIFO: Error at   3th, your answer is 32 but the correct answer is 33
+# thing_index:  3
+# thing_index:  3
+# session:  7
+# thing: 
+# 3 4 7 2 3 4 ;          
+# thing_index:  4
+# session:  3
+# thing: 
+# 3 4 7 7 3 4 ;          
+# thing_index:  5
+# session:  7
+# thing: 
+# 3 4 7 7 3 4 ;          
+# thing_index:  6
+# session:  1
+# thing: 
+# 3 4 7 7 3 7 ;          
+# thing_index:  7
+# session:  9
+# thing: 
+# 3 4 7 7 3 7 1          
+# thing_index:  8
+# session:  ;
+# thing: 
+# 3 4 7 7 3 7 1 9         
+# thing_index:  8
+# pop num:  1
+# thing_index:  7
+# LIFO: Error at   4th, your answer is 39 but the correct answer is 32
+# thing_index:  7
+# thing_index:  7
+# session:  8
+# thing: 
+# 3 4 7 7 3 7 1 9 ;        
+# thing_index:  8
+# session:  1
+# thing: 
+# 3 4 7 7 3 7 1 8 ;        
+# thing_index:  9
+# session:  4
+# thing: 
+# 3 4 7 7 3 7 1 8 1        
+# thing_index: 10
+# session:  8
+# thing: 
+# 3 4 7 7 3 7 1 8 1 4       
+# thing_index: 11
+# session:  ;
+# thing: 
+# 3 4 7 7 3 7 1 8 1 4 8      
+# thing_index: 11
+# pop num:  4
+# thing_index: 10
+# pop num:  4
+# LIFO: Error at   5th, your answer is 38 but the correct answer is 37
+# thing_index:  9
+# pop num:  4
+# LIFO: Error at   6th, your answer is 34 but the correct answer is 39
+# thing_index:  8
+# pop num:  4
+# LIFO: Error at   7th, your answer is 31 but the correct answer is 38
+# thing_index:  7
+# LIFO: Error at   8th, your answer is 38 but the correct answer is 34
+# thing_index:  7
+# thing_index:  7
+# session:  6
+# thing: 
+# 3 4 7 7 3 7 1 8 1 4 8 ;     
+# thing_index:  8
+# session:  4
+# thing: 
+# 3 4 7 7 3 7 1 6 1 4 8 ;     
+# thing_index:  9
+# session:  6
+# thing: 
+# 3 4 7 7 3 7 1 6 4 4 8 ;     
+# thing_index: 10
+# session:  1
+# thing: 
+# 3 4 7 7 3 7 1 6 4 6 8 ;     
+# thing_index: 11
+# session:  ;
+# thing: 
+# 3 4 7 7 3 7 1 6 4 6 1 ;     
+# thing_index: 11
+# pop num:  3
+# thing_index: 10
+# pop num:  3
+# thing_index:  9
+# pop num:  3
+# LIFO: Error at  10th, your answer is 36 but the correct answer is 38
+# thing_index:  8
+# LIFO: Error at  11th, your answer is 34 but the correct answer is 31
+# thing_index:  8
+# thing_index:  8
+# session:  4
+# thing: 
+# 3 4 7 7 3 7 1 6 4 6 1 ;     
+# thing_index:  9
+# session:  8
+# thing: 
+# 3 4 7 7 3 7 1 6 4 6 1 ;     
+# thing_index: 10
+# session:  ;
+# thing: 
+# 3 4 7 7 3 7 1 6 4 8 1 ;     
+# thing_index: 10
+# pop num:  1
+# thing_index:  9
+# LIFO: Error at  12th, your answer is 38 but the correct answer is 36
+# thing_index:  9
+# thing_index:  9
+# session:  ;
+# thing: 
+# 3 4 7 7 3 7 1 6 4 8 ; ;     
+# thing_index:  9
+# pop num:  0
+# thing_index:  9
+# LIFO: Error at  13th, your answer is 30 but the correct answer is 34
+# thing_index:  9
+# thing_index:  9
+# session:  9
+# thing: 
+# 3 4 7 7 3 7 1 6 4 ; ; ;     
+# thing_index: 10
+# session:  6
+# thing: 
+# 3 4 7 7 3 7 1 6 4 9 ; ;     
+# thing_index: 11
+# session:  4
+# thing: 
+# 3 4 7 7 3 7 1 6 4 9 6 ;     
+# thing_index: 12
+# session:  ;
+# thing: 
+# 3 4 7 7 3 7 1 6 4 9 6 4     
+# thing_index: 12
+# pop num:  3
+# thing_index: 11
+# pop num:  3
+# LIFO: Error at  14th, your answer is 34 but the correct answer is 38
+# thing_index: 10
+# pop num:  3
+# LIFO: Error at  15th, your answer is 36 but the correct answer is 30
+# 
+# 
+# There are total   0 errors in FIFO  !!
+# thing_index:  9
+# LIFO: Error at  16th, your answer is 39 but the correct answer is 30
+# thing_index:  9
+# thing_index:  9
+# session:  ;
+# thing: 
+# 3 4 7 7 3 7 1 6 4 9 6 4 ;    
+# thing_index:  9
+# pop num:  0
+# thing_index:  9
+# LIFO: Error at  17th, your answer is 30 but the correct answer is 34
+# thing_index:  9
+# thing_index:  9
+# session:  7
+# thing: 
+# 3 4 7 7 3 7 1 6 4 ; 6 4 ;    
+# thing_index: 10
+# session:  3
+# thing: 
+# 3 4 7 7 3 7 1 6 4 7 6 4 ;    
+# thing_index: 11
+# session:  3
+# thing: 
+# 3 4 7 7 3 7 1 6 4 7 3 4 ;    
+# thing_index: 12
+# session:  ;
+# thing: 
+# 3 4 7 7 3 7 1 6 4 7 3 3 ;    
+# thing_index: 12
+# pop num:  2
+# thing_index: 11
+# pop num:  2
+# LIFO: Error at  18th, your answer is 33 but the correct answer is 36
+# thing_index: 10
+# LIFO: Error at  19th, your answer is 33 but the correct answer is 39
+# thing_index: 10
+# thing_index: 10
+# session:  8
+# thing: 
+# 3 4 7 7 3 7 1 6 4 7 3 3 ;    
+# thing_index: 11
+# session:  6
+# thing: 
+# 3 4 7 7 3 7 1 6 4 7 8 3 ;    
+# thing_index: 12
+# session:  ;
+# thing: 
+# 3 4 7 7 3 7 1 6 4 7 8 6 ;    
+# thing_index: 12
+# pop num:  0
+# thing_index: 12
+# thing_index: 12
+# thing_index: 12
+# session:  $
+# thing: 
+# 3 4 7 7 3 7 1 6 4 7 8 6 ;    
+# thing_index: 12
+# stack num: 12
+# thing_index:  0
+# index:  0
+# 
+# 
+# There are total  21 errors in LIFO  !!
+# thing_index:  1
+# index:  1
+# thing_index:  2
+# index:  2
+# FIFO2: Error at   1th, your answer is 34 but the correct answer is 34
+# thing_index:  3
+# index:  3
+# FIFO2: Error at   2th, your answer is 37 but the correct answer is 34
+# thing_index:  4
+# index:  4
+# thing_index:  5
+# index:  5
+# FIFO2: Error at   4th, your answer is 33 but the correct answer is 32
+# thing_index:  6
+# index:  6
+# FIFO2: Error at   5th, your answer is 37 but the correct answer is 37
+# thing_index:  7
+# index:  7
+# FIFO2: Error at   6th, your answer is 31 but the correct answer is 39
+# thing_index:  8
+# index:  8
+# FIFO2: Error at   7th, your answer is 36 but the correct answer is 38
+# thing_index:  9
+# index:  9
+# FIFO2: Error at   8th, your answer is 34 but the correct answer is 34
+# thing_index: 10
+# index: 10
+# FIFO2: Error at   9th, your answer is 37 but the correct answer is 31
+# thing_index: 11
+# index: 11
+# 
+# 
+# !!! Failed pulling down valid_fifo2 signal, Simulation STOP !!!
+# 
+# 
+# ** Note: $finish    : C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv(208)
+#    Time: 1035 ns  Iteration: 1  Instance: /textfixture
+# 1
+# Break in Module textfixture at C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv line 208
+# Compile of CIPU.v was successful.
+vsim -gui work.textfixture
+# End time: 20:51:21 on Apr 29,2024, Elapsed time: 0:07:51
+# Errors: 0, Warnings: 2
+# vsim -gui work.textfixture 
+# Start time: 20:51:21 on Apr 29,2024
+# Loading sv_std.std
+# Loading work.textfixture
+# Loading work.CIPU
+run
+# **************************************************
+# ***********      Simulation Start      ***********
+# **************************************************
+# =
+# thing_index:  x
+# =
+# thing_index:  x
+# thing: 
+#                 
+# =
+# thing_index:  x
+# thing: 
+#                 
+# =
+# thing_index:  x
+# thing: 
+#                 
+# =
+# thing_index:  x
+# thing: 
+#                 
+# =
+# thing_index:  0
+# thing: 
+#                 
+# =
+# thing_index:  1
+# thing: 
+# 3                
+# =
+# thing_index:  2
+# thing: 
+# 3 9               
+# =
+# thing_index:  2
+# pop num:  1
+run
+# =
+# thing_index:  1
+# =
+# thing_index:  1
+# =
+# thing_index:  1
+# thing: 
+# 3 9 ;              
+# =
+# thing_index:  2
+# thing: 
+# 3 4 ;              
+# =
+# thing_index:  3
+# thing: 
+# 3 4 7              
+# =
+# thing_index:  4
+# thing: 
+# 3 4 7 2             
+# =
+# thing_index:  5
+# thing: 
+# 3 4 7 2 3            
+# =
+# thing_index:  6
+# thing: 
+# 3 4 7 2 3 4           
+# =
+# thing_index:  6
+# pop num:  3
+# =
+# thing_index:  5
+# pop num:  3
+add wave -position insertpoint sim:/textfixture/u_CIPU/*
+restart
+run
+# **************************************************
+# ***********      Simulation Start      ***********
+# **************************************************
+# =
+# thing_index:  x
+# =
+# thing_index:  x
+# thing: 
+#                 
+# =
+# thing_index:  x
+# thing: 
+#                 
+# =
+# thing_index:  x
+# thing: 
+#                 
+# =
+# thing_index:  x
+# thing: 
+#                 
+# =
+# thing_index:  0
+# thing: 
+#                 
+# =
+# thing_index:  1
+# thing: 
+# 3                
+# =
+# thing_index:  2
+# thing: 
+# 3 9               
+# =
+# thing_index:  2
+# pop num:  1
+run
+# =
+# thing_index:  1
+# =
+# thing_index:  1
+# =
+# thing_index:  1
+# thing: 
+# 3 9 ;              
+# =
+# thing_index:  2
+# thing: 
+# 3 4 ;              
+# =
+# thing_index:  3
+# thing: 
+# 3 4 7              
+# =
+# thing_index:  4
+# thing: 
+# 3 4 7 2             
+# =
+# thing_index:  5
+# thing: 
+# 3 4 7 2 3            
+# =
+# thing_index:  6
+# thing: 
+# 3 4 7 2 3 4           
+# =
+# thing_index:  6
+# pop num:  3
+# =
+# thing_index:  5
+# pop num:  3
+restart
+run
+# **************************************************
+# ***********      Simulation Start      ***********
+# **************************************************
+# =
+# thing_index:  x
+# =
+# thing_index:  x
+# thing: 
+#                 
+# =
+# thing_index:  x
+# thing: 
+#                 
+# =
+# thing_index:  x
+# thing: 
+#                 
+# =
+# thing_index:  x
+# thing: 
+#                 
+# =
+# thing_index:  0
+# thing: 
+#                 
+# =
+# thing_index:  1
+# thing: 
+# 3                
+# =
+# thing_index:  2
+# thing: 
+# 3 9               
+# =
+# thing_index:  2
+# pop num:  1
+add wave -position insertpoint sim:/textfixture/u_CIPU/*
+restart
+run
+# **************************************************
+# ***********      Simulation Start      ***********
+# **************************************************
+# =
+# thing_index:  x
+# =
+# thing_index:  x
+# thing: 
+#                 
+# =
+# thing_index:  x
+# thing: 
+#                 
+# =
+# thing_index:  x
+# thing: 
+#                 
+# =
+# thing_index:  x
+# thing: 
+#                 
+# =
+# thing_index:  0
+# thing: 
+#                 
+# =
+# thing_index:  1
+# thing: 
+# 3                
+# =
+# thing_index:  2
+# thing: 
+# 3 9               
+# =
+# thing_index:  2
+# pop num:  1
+run
+# =
+# thing_index:  1
+# =
+# thing_index:  1
+# =
+# thing_index:  1
+# thing: 
+# 3 9 ;              
+# =
+# thing_index:  2
+# thing: 
+# 3 4 ;              
+# =
+# thing_index:  3
+# thing: 
+# 3 4 7              
+# =
+# thing_index:  4
+# thing: 
+# 3 4 7 2             
+# =
+# thing_index:  5
+# thing: 
+# 3 4 7 2 3            
+# =
+# thing_index:  6
+# thing: 
+# 3 4 7 2 3 4           
+# =
+# thing_index:  6
+# pop num:  3
+# =
+# thing_index:  5
+# pop num:  3
+# Compile of CIPU.v was successful.
+vsim -gui work.textfixture
+# End time: 21:01:23 on Apr 29,2024, Elapsed time: 0:10:02
+# Errors: 0, Warnings: 2
+# vsim -gui work.textfixture 
+# Start time: 21:01:23 on Apr 29,2024
+# Loading sv_std.std
+# Loading work.textfixture
+# Loading work.CIPU
+add wave -position insertpoint sim:/textfixture/u_CIPU/*
+run
+# **************************************************
+# ***********      Simulation Start      ***********
+# **************************************************
+# =
+# thing_index:  0
+# thing: 
+#                 
+# =
+# thing_index:  0
+# thing: 
+#                 
+# =
+# thing_index:  1
+# thing: 
+# 3                
+# =
+# thing_index:  2
+# thing: 
+# 3 9               
+# =
+# thing_index:  2
+# pop num:  1
+run
+# =
+# thing_index:  1
+# =
+# thing_index:  1
+# =
+# thing_index:  1
+# thing: 
+# 3 9 ;              
+# =
+# thing_index:  2
+# thing: 
+# 3 4 ;              
+# =
+# thing_index:  3
+# thing: 
+# 3 4 7              
+# =
+# thing_index:  4
+# thing: 
+# 3 4 7 2             
+# =
+# thing_index:  5
+# thing: 
+# 3 4 7 2 3            
+# =
+# thing_index:  6
+# thing: 
+# 3 4 7 2 3 4           
+# =
+# thing_index:  6
+# pop num:  3
+# =
+# thing_index:  5
+# pop num:  3
+# Compile of CIPU.v was successful.
+vsim -gui work.textfixture
+# End time: 21:04:22 on Apr 29,2024, Elapsed time: 0:02:59
+# Errors: 0, Warnings: 2
+# vsim -gui work.textfixture 
+# Start time: 21:04:22 on Apr 29,2024
+# Loading sv_std.std
+# Loading work.textfixture
+# Loading work.CIPU
+run -all
+# **************************************************
+# ***********      Simulation Start      ***********
+# **************************************************
+# =
+# thing_index:  0
+# thing: 
+#                 
+# =
+# thing_index:  0
+# thing: 
+#                 
+# =
+# thing_index:  1
+# thing: 
+# 3                
+# =
+# thing_index:  2
+# thing: 
+# 3 9               
+# =
+# thing_index:  2
+# pop num:  1
+# =
+# thing_index:  1
+# =
+# thing_index:  1
+# =
+# thing_index:  1
+# thing: 
+# 3 9 ;              
+# =
+# thing_index:  2
+# thing: 
+# 3 4 ;              
+# =
+# thing_index:  2
+# pop num:  1
+# =
+# thing_index:  1
+# =
+# thing_index:  1
+# =
+# thing_index:  1
+# thing: 
+# 3 4 ;              
+# =
+# thing_index:  2
+# thing: 
+# 3 7 ;              
+# =
+# thing_index:  3
+# thing: 
+# 3 7 2              
+# =
+# thing_index:  4
+# thing: 
+# 3 7 2 3             
+# =
+# thing_index:  5
+# thing: 
+# 3 7 2 3 4            
+# =
+# thing_index:  5
+# pop num:  3
+# =
+# thing_index:  4
+# pop num:  3
+# =
+# thing_index:  3
+# pop num:  3
+# =
+# thing_index:  2
+# =
+# thing_index:  2
+# =
+# thing_index:  2
+# thing: 
+# 3 7 2 3 4 ;           
+# =
+# thing_index:  3
+# thing: 
+# 3 7 7 3 4 ;           
+# =
+# thing_index:  3
+# pop num:  1
+# =
+# thing_index:  2
+# =
+# thing_index:  2
+# =
+# thing_index:  2
+# thing: 
+# 3 7 7 ; 4 ;           
+# =
+# thing_index:  3
+# thing: 
+# 3 7 3 ; 4 ;           
+# =
+# thing_index:  4
+# thing: 
+# 3 7 3 7 4 ;           
+# =
+# thing_index:  5
+# thing: 
+# 3 7 3 7 1 ;           
+# =
+# thing_index:  6
+# thing: 
+# 3 7 3 7 1 9           
+# =
+# thing_index:  6
+# pop num:  1
+# =
+# thing_index:  5
+# =
+# thing_index:  5
+# =
+# thing_index:  5
+# thing: 
+# 3 7 3 7 1 9 ;          
+# =
+# thing_index:  6
+# thing: 
+# 3 7 3 7 1 8 ;          
+# =
+# thing_index:  7
+# thing: 
+# 3 7 3 7 1 8 1          
+# =
+# thing_index:  8
+# thing: 
+# 3 7 3 7 1 8 1 4         
+# =
+# thing_index:  9
+# thing: 
+# 3 7 3 7 1 8 1 4 8        
+# =
+# thing_index:  9
+# pop num:  4
+# =
+# thing_index:  8
+# pop num:  4
+# =
+# thing_index:  7
+# pop num:  4
+# =
+# thing_index:  6
+# pop num:  4
+# =
+# thing_index:  5
+# =
+# thing_index:  5
+# =
+# thing_index:  5
+# thing: 
+# 3 7 3 7 1 8 1 4 8 ;       
+# =
+# thing_index:  6
+# thing: 
+# 3 7 3 7 1 6 1 4 8 ;       
+# =
+# thing_index:  7
+# thing: 
+# 3 7 3 7 1 6 4 4 8 ;       
+# =
+# thing_index:  8
+# thing: 
+# 3 7 3 7 1 6 4 6 8 ;       
+# =
+# thing_index:  9
+# thing: 
+# 3 7 3 7 1 6 4 6 1 ;       
+# =
+# thing_index:  9
+# pop num:  3
+# =
+# thing_index:  8
+# pop num:  3
+# =
+# thing_index:  7
+# pop num:  3
+# =
+# thing_index:  6
+# =
+# thing_index:  6
+# =
+# thing_index:  6
+# thing: 
+# 3 7 3 7 1 6 4 6 1 ;       
+# =
+# thing_index:  7
+# thing: 
+# 3 7 3 7 1 6 4 6 1 ;       
+# =
+# thing_index:  8
+# thing: 
+# 3 7 3 7 1 6 4 8 1 ;       
+# =
+# thing_index:  8
+# pop num:  1
+# =
+# thing_index:  7
+# =
+# thing_index:  7
+# =
+# thing_index:  7
+# thing: 
+# 3 7 3 7 1 6 4 8 ; ;       
+# =
+# thing_index:  7
+# pop num:  0
+# =
+# thing_index:  7
+# 
+# 
+# There are total   0 errors in FIFO  !!
+# =
+# thing_index:  7
+# =
+# thing_index:  7
+# thing: 
+# 3 7 3 7 1 6 4 ; ; ;       
+# =
+# thing_index:  7
+# pop num:  0
+# =
+# thing_index:  7
+# =
+# thing_index:  7
+# =
+# thing_index:  7
+# thing: 
+# 3 7 3 7 1 6 4 ; ; ;       
+# =
+# thing_index:  8
+# thing: 
+# 3 7 3 7 1 6 4 9 ; ;       
+# =
+# thing_index:  9
+# thing: 
+# 3 7 3 7 1 6 4 9 6 ;       
+# =
+# thing_index: 10
+# thing: 
+# 3 7 3 7 1 6 4 9 6 4       
+# =
+# thing_index: 10
+# pop num:  3
+# =
+# thing_index:  9
+# pop num:  3
+# =
+# thing_index:  8
+# pop num:  3
+# =
+# thing_index:  7
+# =
+# thing_index:  7
+# =
+# thing_index:  7
+# thing: 
+# 3 7 3 7 1 6 4 9 6 4 ;      
+# =
+# thing_index:  7
+# pop num:  0
+# =
+# thing_index:  7
+# =
+# thing_index:  7
+# =
+# thing_index:  7
+# thing: 
+# 3 7 3 7 1 6 4 ; 6 4 ;      
+# =
+# thing_index:  7
+# pop num:  0
+# =
+# thing_index:  7
+# =
+# thing_index:  7
+# =
+# thing_index:  7
+# thing: 
+# 3 7 3 7 1 6 4 ; 6 4 ;      
+# =
+# thing_index:  8
+# thing: 
+# 3 7 3 7 1 6 4 7 6 4 ;      
+# =
+# thing_index:  9
+# thing: 
+# 3 7 3 7 1 6 4 7 3 4 ;      
+# =
+# thing_index: 10
+# thing: 
+# 3 7 3 7 1 6 4 7 3 3 ;      
+# =
+# thing_index: 10
+# pop num:  2
+# =
+# thing_index:  9
+# pop num:  2
+# =
+# thing_index:  8
+# =
+# thing_index:  8
+# =
+# thing_index:  8
+# thing: 
+# 3 7 3 7 1 6 4 7 3 3 ;      
+# =
+# thing_index:  9
+# thing: 
+# 3 7 3 7 1 6 4 7 8 3 ;      
+# =
+# thing_index: 10
+# thing: 
+# 3 7 3 7 1 6 4 7 8 6 ;      
+# =
+# thing_index: 10
+# pop num:  0
+# =
+# thing_index: 10
+# =
+# thing_index: 10
+# =
+# thing_index: 10
+# thing: 
+# 3 7 3 7 1 6 4 7 8 6 ;      
+# =
+# thing_index: 10
+# stack num: 10
+# =
+# thing_index:  0
+# index:  0
+# 
+# 
+# There are total   0 errors in LIFO  !!
+# =
+# thing_index:  1
+# index:  1
+# =
+# thing_index:  2
+# index:  2
+# =
+# thing_index:  3
+# index:  3
+# =
+# thing_index:  4
+# index:  4
+# =
+# thing_index:  5
+# index:  5
+# =
+# thing_index:  6
+# index:  6
+# =
+# thing_index:  7
+# index:  7
+# =
+# thing_index:  8
+# index:  8
+# =
+# thing_index:  9
+# index:  9
+# =
+# thing_index: 10
+# =
+# thing_index:  0
+# thing: 
+#                 
+# 
+# 
+# There are total   0 errors in FIFO2 !!
+# 
+# 
+#         ****************************               
+#         **                        **       |__||  
+#         **  Congratulations!!     **      / O.O  | 
+#         **                        **    /_____   | 
+#         **  Simulation PASS!!     **   /^ ^ ^ \  |
+#         **                        **  |^ ^ ^ ^ |w| 
+#         ****************************   \m___m__|_|
+# 
+#         Correct / Total :   100 / 100  
+# 
+# 
+# ** Note: $finish    : C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv(300)
+#    Time: 1195 ns  Iteration: 1  Instance: /textfixture
+# 1
+# Break in Module textfixture at C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv line 300
+# Compile of CIPU.v was successful.
+vsim -gui work.textfixture
+# End time: 21:08:25 on Apr 29,2024, Elapsed time: 0:04:03
+# Errors: 0, Warnings: 2
+# vsim -gui work.textfixture 
+# Start time: 21:08:25 on Apr 29,2024
+# Loading sv_std.std
+# Loading work.textfixture
+# Loading work.CIPU
+run -all
+# **************************************************
+# ***********      Simulation Start      ***********
+# **************************************************
+# =
+# thing_index:  0
+#                 =
+# thing_index:  0
+#                 =
+# thing_index:  1
+# 3                =
+# thing_index:  2
+# 3 9               =
+# thing_index:  2
+# =
+# thing_index:  1
+# =
+# thing_index:  1
+# =
+# thing_index:  1
+# 3 9 ;              =
+# thing_index:  2
+# 3 4 ;              =
+# thing_index:  2
+# =
+# thing_index:  1
+# =
+# thing_index:  1
+# =
+# thing_index:  1
+# 3 4 ;              =
+# thing_index:  2
+# 3 7 ;              =
+# thing_index:  3
+# 3 7 2              =
+# thing_index:  4
+# 3 7 2 3             =
+# thing_index:  5
+# 3 7 2 3 4            =
+# thing_index:  5
+# =
+# thing_index:  4
+# =
+# thing_index:  3
+# =
+# thing_index:  2
+# =
+# thing_index:  2
+# =
+# thing_index:  2
+# 3 7 2 3 4 ;           =
+# thing_index:  3
+# 3 7 7 3 4 ;           =
+# thing_index:  3
+# =
+# thing_index:  2
+# =
+# thing_index:  2
+# =
+# thing_index:  2
+# 3 7 7 ; 4 ;           =
+# thing_index:  3
+# 3 7 3 ; 4 ;           =
+# thing_index:  4
+# 3 7 3 7 4 ;           =
+# thing_index:  5
+# 3 7 3 7 1 ;           =
+# thing_index:  6
+# 3 7 3 7 1 9           =
+# thing_index:  6
+# =
+# thing_index:  5
+# =
+# thing_index:  5
+# =
+# thing_index:  5
+# 3 7 3 7 1 9 ;          =
+# thing_index:  6
+# 3 7 3 7 1 8 ;          =
+# thing_index:  7
+# 3 7 3 7 1 8 1          =
+# thing_index:  8
+# 3 7 3 7 1 8 1 4         =
+# thing_index:  9
+# 3 7 3 7 1 8 1 4 8        =
+# thing_index:  9
+# =
+# thing_index:  8
+# =
+# thing_index:  7
+# =
+# thing_index:  6
+# =
+# thing_index:  5
+# =
+# thing_index:  5
+# =
+# thing_index:  5
+# 3 7 3 7 1 8 1 4 8 ;       =
+# thing_index:  6
+# 3 7 3 7 1 6 1 4 8 ;       =
+# thing_index:  7
+# 3 7 3 7 1 6 4 4 8 ;       =
+# thing_index:  8
+# 3 7 3 7 1 6 4 6 8 ;       =
+# thing_index:  9
+# 3 7 3 7 1 6 4 6 1 ;       =
+# thing_index:  9
+# =
+# thing_index:  8
+# =
+# thing_index:  7
+# =
+# thing_index:  6
+# =
+# thing_index:  6
+# =
+# thing_index:  6
+# 3 7 3 7 1 6 4 6 1 ;       =
+# thing_index:  7
+# 3 7 3 7 1 6 4 6 1 ;       =
+# thing_index:  8
+# 3 7 3 7 1 6 4 8 1 ;       =
+# thing_index:  8
+# =
+# thing_index:  7
+# =
+# thing_index:  7
+# =
+# thing_index:  7
+# 3 7 3 7 1 6 4 8 ; ;       =
+# thing_index:  7
+# =
+# thing_index:  7
+# 
+# 
+# There are total   0 errors in FIFO  !!
+# =
+# thing_index:  7
+# =
+# thing_index:  7
+# 3 7 3 7 1 6 4 ; ; ;       =
+# thing_index:  7
+# =
+# thing_index:  7
+# =
+# thing_index:  7
+# =
+# thing_index:  7
+# 3 7 3 7 1 6 4 ; ; ;       =
+# thing_index:  8
+# 3 7 3 7 1 6 4 9 ; ;       =
+# thing_index:  9
+# 3 7 3 7 1 6 4 9 6 ;       =
+# thing_index: 10
+# 3 7 3 7 1 6 4 9 6 4       =
+# thing_index: 10
+# =
+# thing_index:  9
+# =
+# thing_index:  8
+# =
+# thing_index:  7
+# =
+# thing_index:  7
+# =
+# thing_index:  7
+# 3 7 3 7 1 6 4 9 6 4 ;      =
+# thing_index:  7
+# =
+# thing_index:  7
+# =
+# thing_index:  7
+# =
+# thing_index:  7
+# 3 7 3 7 1 6 4 ; 6 4 ;      =
+# thing_index:  7
+# =
+# thing_index:  7
+# =
+# thing_index:  7
+# =
+# thing_index:  7
+# 3 7 3 7 1 6 4 ; 6 4 ;      =
+# thing_index:  8
+# 3 7 3 7 1 6 4 7 6 4 ;      =
+# thing_index:  9
+# 3 7 3 7 1 6 4 7 3 4 ;      =
+# thing_index: 10
+# 3 7 3 7 1 6 4 7 3 3 ;      =
+# thing_index: 10
+# =
+# thing_index:  9
+# =
+# thing_index:  8
+# =
+# thing_index:  8
+# =
+# thing_index:  8
+# 3 7 3 7 1 6 4 7 3 3 ;      =
+# thing_index:  9
+# 3 7 3 7 1 6 4 7 8 3 ;      =
+# thing_index: 10
+# 3 7 3 7 1 6 4 7 8 6 ;      =
+# thing_index: 10
+# =
+# thing_index: 10
+# =
+# thing_index: 10
+# =
+# thing_index: 10
+# 3 7 3 7 1 6 4 7 8 6 ;      =
+# thing_index: 10
+# =
+# thing_index:  0
+# 
+# 
+# There are total   0 errors in LIFO  !!
+# =
+# thing_index:  1
+# =
+# thing_index:  2
+# =
+# thing_index:  3
+# =
+# thing_index:  4
+# =
+# thing_index:  5
+# =
+# thing_index:  6
+# =
+# thing_index:  7
+# =
+# thing_index:  8
+# =
+# thing_index:  9
+# =
+# thing_index: 10
+# =
+# thing_index:  0
+#                 
+# 
+# There are total   0 errors in FIFO2 !!
+# 
+# 
+#         ****************************               
+#         **                        **       |__||  
+#         **  Congratulations!!     **      / O.O  | 
+#         **                        **    /_____   | 
+#         **  Simulation PASS!!     **   /^ ^ ^ \  |
+#         **                        **  |^ ^ ^ ^ |w| 
+#         ****************************   \m___m__|_|
+# 
+#         Correct / Total :   100 / 100  
+# 
+# 
+# ** Note: $finish    : C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv(300)
+#    Time: 1195 ns  Iteration: 1  Instance: /textfixture
+# 1
+# Break in Module textfixture at C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv line 300
+# Compile of CIPU.v was successful.
+vsim -gui work.textfixture
+# End time: 21:09:04 on Apr 29,2024, Elapsed time: 0:00:39
+# Errors: 0, Warnings: 2
+# vsim -gui work.textfixture 
+# Start time: 21:09:04 on Apr 29,2024
+# Loading sv_std.std
+# Loading work.textfixture
+# Loading work.CIPU
+run -all
+# **************************************************
+# ***********      Simulation Start      ***********
+# **************************************************
+# 
+# 
+# There are total   0 errors in FIFO  !!
+# 
+# 
+# There are total   0 errors in LIFO  !!
+# 
+# 
+# There are total   0 errors in FIFO2 !!
+# 
+# 
+#         ****************************               
+#         **                        **       |__||  
+#         **  Congratulations!!     **      / O.O  | 
+#         **                        **    /_____   | 
+#         **  Simulation PASS!!     **   /^ ^ ^ \  |
+#         **                        **  |^ ^ ^ ^ |w| 
+#         ****************************   \m___m__|_|
+# 
+#         Correct / Total :   100 / 100  
+# 
+# 
+# ** Note: $finish    : C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv(300)
+#    Time: 1195 ns  Iteration: 1  Instance: /textfixture
+# 1
+# Break in Module textfixture at C:/Users/CYC/Downloads/DIC2024_hw2/RTL/tb.sv line 300
+# End time: 21:20:58 on Apr 29,2024, Elapsed time: 0:11:54
+# Errors: 0, Warnings: 2
